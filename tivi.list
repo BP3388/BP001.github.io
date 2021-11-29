@@ -30,3 +30,63 @@ https://rest-as.ott.kaltura.com/api_v3/service/assetFile/action/playManifest/par
 #KODIPROP:inputstream.adaptive.license_key=https://udrmv3.kaltura.com/cenc/widevine/license?custom_data=eyJjYV9zeXN0ZW0iOiJodHRwczovL3Jlc3QtYXMub3R0LmthbHR1cmEuY29tL2FwaV92My9zZXJ2aWNlL2Fzc2V0RmlsZS9hY3Rpb24vZ2V0Q29udGV4dD9rcz1kako4TVRRM2ZEXzBVZF9QZEVHRk9KbGJQRmJnQkUxcVZXSGU4cjJDTEg3dXJIWXlGTzJZRUgwQk45dFcyOXhzVC1MLXlOVkkyX3U2U0lweTRjQUpaWXBPcC1FZHk1dlBkU25YMldCeWRuTkZCaTRuZFVfd3hkSXUzS2FHcnVmS1RQMnc3R0hjOVROR0pUWEU3U3pnMG5rTVQ2UnNWWll0T1NidWpwelBkNDgxV1lFNEJiN2RLUEx1aDBCa2tVX21OSENHc01Pa0FFcEdBVlNqMlRKckc3S2VZR3NlMUVjOXp5ay1pWkJCNkZOTDlHNGlNVnVaTUd0b0EtenVNM3FuYl9GdUk1ZFpyMWNjVjdWMlMwZW52T3NwLUdtcXRtMUo3TXJGdEdRQzJ4OXdxTHBIOWlSRzhnREJkTG52NVQ3dnZFYnNtMkRDdGtodjBiUDd1VHhScUNNazloMk1QOVU9JmNvbnRleHRUeXBlPW5vbmUmaWQ9NTc1NDE0OSIsImFjY291bnRfaWQiOjIwODIzMTEsImNvbnRlbnRfaWQiOiJmdGFfY25hU19kYXNoX3R2X2RybSIsImZpbGVzIjoiIiwidXNlcl90b2tlbiI6ImRqSjhNVFEzZkRfMFVkX1BkRUdGT0psYlBGYmdCRTFxVldIZThyMkNMSDd1ckhZeUZPMllFSDBCTjl0VzI5eHNULUwteU5WSTJfdTZTSXB5NGNBSlpZcE9wLUVkeTV2UGRTblgyV0J5ZG5ORkJpNG5kVV93eGRJdTNLYUdydWZLVFAydzdHSGM5VE5HSlRYRTdTemcwbmtNVDZSc1ZaWXRPU2J1anB6UGQ0ODFXWUU0QmI3ZEtQTHVoMEJra1VfbU5IQ0dzTU9rQUVwR0FWU2oyVEpyRzdLZVlHc2UxRWM5enlrLWlaQkI2Rk5MOUc0aU1WdVpNR3RvQS16dU0zcW5iX0Z1STVkWnIxY2NWN1YyUzBlbnZPc3AtR21xdG0xSjdNckZ0R1FDMng5d3FMcEg5aVJHOGdEQmRMbnY1VDd2dkVic20yREN0a2h2MGJQN3VUeFJxQ01rOWgyTVA5VT0iLCJ1ZGlkIjoiIiwiYWRkaXRpb25hbF9jYXNfc3lzdGVtIjoxNDd9&signature=2PHUeybr9tjMT0GIjIWvYAT%2fV%2bQ%3d
 #EXTINF:-1 group-title="Mediacorp SG" tvg-id="CNA" tvg-chno="CNA" tvg-logo="https://static.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format=%27png%27&Quality=85&ImageId=%27956283%27&EntityType=%27Item%27&EntityId=%2797072%27&Width=150&Height=150&ImageUrl=%27956283.png%27&device=%27web_browser%27&subscriptions=%27Registered%27&segmentationTags=%27all%27&ResizeAction=%27fill%27&HorizontalAlignment=%27center%27&VerticalAlignment=%27top%27",CNA
 https://rest-as.ott.kaltura.com/api_v3/service/assetFile/action/playManifest/partnerId/147/assetId/197985/assetType/media/assetFileId/5754149/contextType/PLAYBACK/isAltUrl/False/a.mpd
+
+======= 台湾 ============
+#EXTINF:-1 tvg-ID="民視" tvg-logo="" group-title="台湾SAT",TVBS
+http://tw.hstv.pro/litv/litvts.php?id=4gtv-4gtv073
+
+#EXTINF:-1 tvg-ID="" tvg-logo="" group-title="台湾SAT",中天新聞台
+http://tw.hstv.pro/litv/litvts.php?id=4gtv-4gtv009
+
+#EXTINF:-1 tvg-ID="" tvg-logo="" group-title="台湾SAT",寰宇新聞台
+http://tw.hstv.pro/litv/litvts.php?id=litv-longturn14
+
+#EXTINF:-1 tvg-ID="台視" tvg-logo="" group-title="台湾SAT",中視新聞
+http://tw.hstv.pro/litv/litvts.php?id=4gtv-4gtv074
+
+
+#EXTINF:-1 tvg-ID="" tvg-logo="" group-title="台湾SAT",八大綜藝台
+http://tw.hstv.pro/litv/litvts.php?id=4gtv-4gtv039
+
+#EXTINF:-1 tvg-ID="" tvg-logo="" group-title="台湾SAT",八大精彩台
+http://tw.hstv.pro/litv/litvts.php?id=4gtv-4gtv034
+
+#EXTINF:-1 tvg-ID="" tvg-logo="" group-title="台湾SAT",亚洲旅游台
+http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=litv-longturn17
+
+#EXTINF:-1 tvg-ID="" tvg-logo="" group-title="台湾SAT",龍華戲劇台
+http://tw.hstv.pro/litv/litvts.php?id=litv-longturn18
+
+#EXTINF:-1 tvg-ID="" tvg-logo="" group-title="台湾SAT",龍華偶像台
+http://tw.hstv.pro/litv/litvts.php?id=litv-longturn12
+
+#EXTINF:-1 tvg-ID="" tvg-logo="" group-title="台湾SAT",龍華日韓台
+http://tw.hstv.pro/litv/litvts.php?id=litv-longturn11
+
+#EXTINF:-1 tvg-ID="" tvg-logo="" group-title="台湾SAT",Mezzo Live
+http://tw.hstv.pro/litv/litvts.php?id=4gtv-4gtv083
+
+#EXTINF:-1 tvg-ID="" tvg-logo="" group-title="台湾SAT",靖天日本台
+http://tw.hstv.pro/litv/litvts.php?id=4gtv-4gtv047
+
+#EXTINF:-1 tvg-ID="" tvg-logo="" group-title="台湾SAT",靖天育樂台
+http://tw.hstv.pro/litv/litvts.php?id=4gtv-4gtv062
+
+
+#EXTINF:-1 tvg-ID="" tvg-logo="" group-title="台湾SAT",中視
+http://tw.hstv.pro/litv/litvts.php?id=4gtv-4gtv040
+
+#EXTINF:-1 tvg-ID="" tvg-logo="" group-title="台湾SAT",華視
+http://tw.hstv.pro/litv/litvts.php?id=4gtv-4gtv041
+
+#EXTINF:-1 tvg-ID="中視" tvg-logo="" group-title="台湾SAT",采昌影劇台
+http://tw.hstv.pro/litv/litvts.php?id=4gtv-4gtv049
+
+#EXTINF:-1 tvg-ID="" tvg-logo="" group-title="台湾SAT",愛爾達娛樂台
+http://tw.hstv.pro/litv/litvts.php?id=4gtv-4gtv070
+
+#EXTINF:-1 tvg-ID="" tvg-logo="" group-title="台湾SAT",ELTV英語學習
+http://tw.hstv.pro/litv/litvts.php?id=litv-longturn20
+
+#EXTINF:-1 tvg-ID="" tvg-logo="" group-title="台湾SAT",TVBS歡樂台
+http://tw.hstv.pro/litv/litvts.php?id=4gtv-4gtv068
