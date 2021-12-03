@@ -13,7 +13,7 @@ TVBS新聞台,https://git.io/Jgkp1
 三立inews新聞,https://git.io/Jgkxj
 
 美亚电影台,http://iptv.tvfix.org/hls/mydy.m3u8
-新视觉,http://39.136.18.76/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226188/1/index.m3u8?fmt=ts2hls
+
 全佳台,http://185.180.221.194:8278/709a7e15e5/playlist.m3u8?tid=MB2B5535727355357273&ct=18393&tsum=befb9caa2c30f07d1ae184dcc3f09a01
 华丽台,http://185.180.221.194:8278/b8b3235366/playlist.m3u8?tid=MF4F9906062099060620&ct=18393&tsum=aed2fd07d5f66c7469d1e1400f67fa4b
 欢喜台,http://185.180.221.194:8278/6192529292/playlist.m3u8?tid=ME1E6676056466760564&ct=18393&tsum=c7c93e30271e8d42b8f02c7a8ca24319
@@ -22,6 +22,11 @@ TVBS新聞台,https://git.io/Jgkp1
 Boo,http://50.7.161.82:8278/Boo/playlist.m3u8?tid=MC2C6920454369204543&ct=18392&tsum=33665cea2537137179986482ec6d54df
 全佳,http://185.180.221.194:8278/709a7e15e5/playlist.m3u8?tid=MB2B5535727355357273&ct=18393&tsum=befb9caa2c30f07d1ae184dcc3f09a01
 TVB星河,http://50.7.161.82:8278/Xinhe/playlist.m3u8?tid=md0765809c3841056727&ct=18961&tsum=37e949e2ece3a0ddbdafb59b6b3b66d7
+
+体育台,#genre#
+CCTV16 8M,http://39.135.129.162/hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221226880/index.m3u8
+CCTV16,http://39.135.138.58:18890/PLTV/88888888/224/3221226233/index.m3u8
+新视觉,http://39.136.18.76/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226188/1/index.m3u8?fmt=ts2hls
 
 
 ihot 院线,#genre#
