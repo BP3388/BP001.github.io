@@ -1,7 +1,12 @@
 特选,#genre#
 TVB唯食台,http://iptv.tvfix.org/hls/tvbws2.m3u8
 J2,http://iptv.tvfix.org/hls/j2.m3u8
-
+日-2电影频道,vjms://61.216.1.24:8500:3502/live/cid=497
+日-星空电影3,vjms://61.216.1.24:8500:3502/live/cid=193
+日-星空电影2,vjms://61.216.1.24:8500:3502/live/cid=191
+日-星空电影1,vjms://61.216.1.24:8500:3502/live/cid=326
+日-摔跤台,vjms://61.216.1.24:8500:3502/live/cid=408
+w,vjms://14.102.154.164:8500/live/cid=497
 民視新聞台,https://git.io/JgkAb
 中視新聞,https://git.io/Jgkxz
 台視新聞,https://git.io/JgkxY
