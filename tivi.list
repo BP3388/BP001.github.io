@@ -1,8 +1,4 @@
-#EXTM3U x-tvg-url="https://raw.githubusercontent.com/AqFad2811/myiptv/main/singapore.xml"  url-tvg="http://epg.51zmt.top:8000/e.xml" url-tvg="https://raw.githubusercontent.com/AqFad2811/myiptv/main/singapore.xml" refresh="1440" max-conn="1" refresh="24"
-
-
-
-
+#EXTM3U 
 
 #EXTINF:-1 tvg-logo="http://static.epg.best/gb/CNN.uk.png" group-title="News", CNN INT
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
