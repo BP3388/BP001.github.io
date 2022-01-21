@@ -117,10 +117,10 @@ CCTV16,http://39.135.138.58:18890/PLTV/88888888/224/3221226233/index.m3u8
 CCTV-5+ 12M,http://hbgslbserv.taipan.jda.bcs.ottcn.com:6060/030000001000/G_CCTV-5PLUS/G_CCTV-5PLUS.m3u8
 
 ihot 院线,#genre#
-求索科学,http://39.134.134.85/000000001000/6000000002000032344/1.m3u8
-求索纪录,http://39.134.134.85/000000001000/6000000002000032052/1.m3u8
-求索生活,http://39.134.134.85/000000001000/6000000002000003382/1.m3u8
-求索动物,http://39.134.134.85/000000001000/6000000002000010046/1.m3u8
+求索科学,http://39.134.134.84/0000000000001001/1/1.m3u8?Contentid=6000000002000032344&livemode=1&stbId=3&channel-id=wasusyt
+求索纪录,http://39.134.134.84/0000000000001001/1/1.m3u8?Contentid=6000000002000032052&livemode=1&stbId=3&channel-id=wasusyt
+求索生活,http://39.134.134.84/0000000000001001/1/1.m3u8?Contentid=6000000002000003382&livemode=1&stbId=3&channel-id=wasusyt
+求索动物,http://39.134.134.84/0000000000001001/1/1.m3u8?Contentid=6000000002000010046&livemode=1&stbId=3&channel-id=wasusyt
 CHC家庭电影,http://39.134.18.69/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226462/1.m3u8
 CHC动作电影,http://39.134.18.69/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226465/1.m3u8
 CHC高清电影,http://39.134.18.69/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226463/1.m3u8
