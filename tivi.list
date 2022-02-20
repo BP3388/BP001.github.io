@@ -128,32 +128,39 @@ https://rest-as.ott.kaltura.com/api_v3/service/assetFile/action/playManifest/par
 ======= 台湾 ============
 
 #EXTINF:-1 group-title="台湾126" ,中天綜合
-rtmp://v3948069e.live.126.net/live/rN9gY7BW5dd2gO7zKoOV1tP8kU4cT8xH115/115
+http://dllb.jxin122.top/jj.php?id=41&p=0&c=3&key=ced06b227baa54c961d63cc2c09dbc52 
 #EXTINF:-1 group-title="台湾126" ,中天娛樂
-rtmp://v3948069e.live.126.net/live/rN9gY7BW5dd2gO7zKoOV1tP8kU4cT8xH114/114
-#EXTINF:-1 group-title="台湾126" ,東森戲劇
-rtmp://v3948069e.live.126.net/live/rN9gY7BW5dd2gO7zKoOV1tP8kU4cT8xH132/132
-#EXTINF:-1 group-title="台湾126" ,東森超視
-rtmp://v3948069e.live.126.net/live/rN9gY7BW5dd2gO7zKoOV1tP8kU4cT8xH133/133
-#EXTINF:-1 group-title="台湾126" ,龍華戲劇
-rtmp://v3948069e.live.126.net/live/rN9gY7BW5dd2gO7zKoOV1tP8kU4cT8xH134/134
-#EXTINF:-1 group-title="台湾126" ,龍華偶像
-rtmp://v3948069e.live.126.net/live/rN9gY7BW5dd2gO7zKoOV1tP8kU4cT8xH136/136
-#EXTINF:-1 group-title="台湾126" ,ELTA影劇
-rtmp://v3948069e.live.126.net/live/rN9gY7BW5dd2gO7zKoOV1tP8kU4cT8xH144/144
-#EXTINF:-1 group-title="台湾126" ,中天新聞
-rtmp://v3948069e.live.126.net/live/rN9gY7BW5dd2gO7zKoOV1tP8kU4cT8xH28/28
-#EXTINF:-1 group-title="台湾126" ,TVBS新聞
-rtmp://v3948069e.live.126.net/live/rN9gY7BW5dd2gO7zKoOV1tP8kU4cT8xH32/32
-#EXTINF:-1 group-title="台湾126" ,TVBS
-rtmp://v3948069e.live.126.net/live/rN9gY7BW5dd2gO7zKoOV1tP8kU4cT8xH33/33
+http://dllb.jxin122.top/jj.php?id=40&p=0&c=3&key=ced06b227baa54c961d63cc2c09dbc52 
+#EXTINF:-1 group-title="台湾126" ,东森电影
+http://dllb.jxin122.top/jj.php?id=29&p=0&c=3&key=ced06b227baa54c961d63cc2c09dbc52
 
-#EXTINF:-1 group-title="台湾126" ,HBO
-rtmp://v3948069e.live.126.net/live/rN9gY7BW5dd2gO7zKoOV1tP8kU4cT8xH77/77
-#EXTINF:-1 group-title="台湾126" ,HBO強檔
-rtmp://v3948069e.live.126.net/live/rN9gY7BW5dd2gO7zKoOV1tP8kU4cT8xH78/78
+#EXTINF:-1 group-title="台湾126" ,东森综合
+http://dllb.jxin122.top/jj.php?id=32&p=0&c=3&key=ced06b227baa54c961d63cc2c09dbc52 
+
+#EXTINF:-1 group-title="台湾126" ,八大综合
+http://dllb.jxin122.top/jj.php?id=22&p=0&c=3&key=ced06b227baa54c961d63cc2c09dbc52 
+
+#EXTINF:-1 group-title="台湾126" ,八大娱乐
+http://dllb.jxin122.top/jj.php?id=20&p=0&c=3&key=ced06b227baa54c961d63cc2c09dbc52
+
+#EXTINF:-1 group-title="台湾126" ,天映频道
+http://dllb.jxin122.top/jj.php?id=15&p=0&c=3&key=ced06b227baa54c961d63cc2c09dbc52 
+
+#EXTINF:-1 group-title="台湾126" ,中天新聞
+http://dllb.jxin122.top/jj.php?id=42&p=0&c=3&key=ced06b227baa54c961d63cc2c09dbc52 
+#EXTINF:-1 group-title="台湾126" ,TVBS新聞
+http://dllb.jxin122.top/jj.php?id=38&p=0&c=3&key=ced06b227baa54c961d63cc2c09dbc52 
+#EXTINF:-1 group-title="台湾126" ,TVBS
+http://dllb.jxin122.top/jj.php?id=37&p=0&c=3&key=ced06b227baa54c961d63cc2c09dbc52 
+
+#EXTINF:-1 group-title="台湾126" ,东森新闻
+http://dllb.jxin122.top/jj.php?id=33&p=0&c=3&key=ced06b227baa54c961d63cc2c09dbc52 
+
+#EXTINF:-1 group-title="台湾126" ,凤凰资讯
+http://dllb.jxin122.top/jj.php?d=99&p=0&c=3&key=ced06b227baa54c961d63cc2c09dbc52 
+
 #EXTINF:-1 group-title="台湾126" ,星衛電影
-rtmp://v3948069e.live.126.net/live/rN9gY7BW5dd2gO7zKoOV1tP8kU4cT8xH93/93
+
 
 
 ======= 台湾 ============
