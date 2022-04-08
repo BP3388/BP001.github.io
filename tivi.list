@@ -102,6 +102,8 @@ https://liveanevia.mncnow.id/live/eds/CNNInternational/sa_dash_vmx/CNNInternatio
 
 
 ======= 台湾 ============
+#EXTINF:-1 group-title="台湾126" ,TVBS HD
+http://huanqiuzhibo.cn/manifest/xxoo.php?id=37
 
 #EXTINF:-1 group-title="台湾126" ,中天綜合
 http://dllb.jxin122.top/jj.php?id=41&p=0&c=3&key=ced06b227baa54c961d63cc2c09dbc52 
