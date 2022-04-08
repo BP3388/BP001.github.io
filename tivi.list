@@ -87,8 +87,11 @@ https://tglmp02.akamaized.net/out/v1/4f6561ad194b49ae93f4e1b075afdf41/manifest.m
 https://tglmp03.akamaized.net/out/v1/1057d89ee3d94148b430b5866e3a540a/manifest.mpd
 
 ======= 新闻 ============
-#EXTINF:-1 group-title="新闻"， SG NewsAsia
+#EXTINF:-1 group-title="新闻", SG NewsAsia
 https://i.mjh.nz/au/Sydney/tv.cna.m3u8
+
+#EXTINF:-1 group-title="新闻", CNA
+http://210.210.155.35/uq2663/h/h29/02.m3u8
 
 #EXTINF:-1 tvg-logo="http://static.epg.best/gb/CNN.uk.png" group-title="新闻", CNN INT
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
