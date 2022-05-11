@@ -89,6 +89,21 @@ https://tglmp02.akamaized.net/out/v1/4f6561ad194b49ae93f4e1b075afdf41/manifest.m
 #EXTINF:-1  group-title="新马" tvg-ID="ChU.SG" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/ff/CH_U_2015.png",Ch U
 https://tglmp03.akamaized.net/out/v1/1057d89ee3d94148b430b5866e3a540a/manifest.mpd
 
+#EXTINF:0 tvg-id="" group-title="MY TV",OKEY 
+https://list.iptvcat.com/my_list/s/e53ffd2640ae2bb6fa6e310580e12313.m3u8
+#EXTINF:0 tvg-id="" group-title="MY TV",Sukan RTM 
+https://list.iptvcat.com/my_list/s/885ee5277a480e6045d262a2c70729c2.m3u8
+#EXTINF:0 tvg-id="" group-title="MY TV",TV1 
+https://list.iptvcat.com/my_list/s/395c710fa31c68cf7977b4cc227dc8c8.m3u8
+#EXTINF:0 tvg-id="" group-title="MY TV",TV2
+https://list.iptvcat.com/my_list/s/7481f6e3d1283f993f7fcc0817fe0337.m3u8
+#EXTINF:0 tvg-id="" group-title="MY TV",TV6 
+https://list.iptvcat.com/my_list/s/8af7543fd2d6654866d260573d9b0675.m3u8
+#EXTINF:0 tvg-id="" group-title="MY TV",Channel News Asia
+https://list.iptvcat.com/my_list/s/a7e05eef940fb656407c55a172e6b861.m3u8
+
+
+
 #EXTINF:-1 tvg-name="CNBCHongKong" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/CNBC.png" group-title="港澳台",CNBC
 http://220.134.196.147:8977/http/116.50.42.18:8078/hls/24/80/cnbc90.m3u8?token=7375646f1298469fcd2cecf4cc31d29c6f203f0d
 
