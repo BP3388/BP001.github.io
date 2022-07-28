@@ -169,110 +169,111 @@ https://liveanevia.mncnow.id/live/eds/CNNInternational/sa_dash_vmx/CNNInternatio
 
 
 ======= 台湾 ============
-#EXTINF:-1 group-title="台湾hstv" ,CNNA
-http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live204&nid=166
-#EXTINF:-1 group-title="台湾hstv" ,民视台湾台A
+#EXTINF:-1 group-title="台湾hstv" ,三立綜合
+http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live207&nid=169
+#EXTINF:-1 group-title="台湾hstv" ,民视台湾台
 http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv001&nid=2
 #EXTINF:-1 group-title="台湾hstv" ,民视A
 http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv002&nid=3
-#EXTINF:-1 group-title="台湾hstv" ,民视第一台A
+#EXTINF:-1 group-title="台湾hstv" ,民视第一台
 http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv003&nid=1
-#EXTINF:-1 group-title="台湾hstv" ,民视综艺A
+#EXTINF:-1 group-title="台湾hstv" ,民视综艺
 http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv004&nid=16
-#EXTINF:-1 group-title="台湾hstv" ,猪哥亮歌厅秀A
+#EXTINF:-1 group-title="台湾hstv" ,猪哥亮歌厅秀
 http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv006&nid=113
 #EXTINF:-1 group-title="台湾hstv" ,中天新闻
 http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv009&nid=30
-#EXTINF:-1 group-title="台湾hstv" ,非凡新闻
-http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=4gtv-4gtv010
+#EXTINF:-1 group-title="台湾hstv" ,东森财经
+http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live019&nid=211
+
 #EXTINF:-1 group-title="台湾hstv" ,影迷数位电影
-http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=4gtv-4gtv011
+
 #EXTINF:-1 group-title="台湾hstv" ,Cnex
-http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=4gtv-4gtv013
-#EXTINF:-1 group-title="台湾hstv" ,时尚运动A
+
+#EXTINF:-1 group-title="台湾hstv" ,时尚运动
 http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv014&nid=69
 #EXTINF:-1 group-title="台湾hstv" ,韩国娱乐
-http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=4gtv-4gtv016
+
 #EXTINF:-1 group-title="台湾hstv" ,达文西
-http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=4gtv-4gtv018
+
 #EXTINF:-1 group-title="台湾hstv" ,八大精彩
-http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=4gtv-4gtv034
+
 #EXTINF:-1 group-title="台湾hstv" ,八大综合台
-http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=4gtv-4gtv039
-#EXTINF:-1 group-title="台湾hstv" ,中视A
+
+#EXTINF:-1 group-title="台湾hstv" ,中视
 http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv040&nid=4
-#EXTINF:-1 group-title="台湾hstv" ,华视A
+#EXTINF:-1 group-title="台湾hstv" ,华视
 http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv041&nid=6
-#EXTINF:-1 group-title="台湾hstv" ,公视戏剧A
+#EXTINF:-1 group-title="台湾hstv" ,公视戏剧
 http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv042&nid=7
 #EXTINF:-1 group-title="台湾hstv" ,客家电视
-http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=4gtv-4gtv043
+
 #EXTINF:-1 group-title="台湾hstv" ,靖天卡通台
-http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=4gtv-4gtv044
+
 #EXTINF:-1 group-title="台湾hstv" ,靖洋戏剧台
-http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=4gtv-4gtv045
+
 #EXTINF:-1 group-title="台湾hstv" ,靖天综合台
-http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=4gtv-4gtv046
+
 #EXTINF:-1 group-title="台湾hstv" ,靖天日本台
-http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=4gtv-4gtv047
+
 #EXTINF:-1 group-title="台湾hstv" ,非凡商业
-http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=4gtv-4gtv048
-#EXTINF:-1 group-title="台湾hstv" ,采昌A
+
+#EXTINF:-1 group-title="台湾hstv" ,采昌
 http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv049&nid=25
 #EXTINF:-1 group-title="台湾hstv" ,台视新闻
-http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=4gtv-4gtv051
-#EXTINF:-1 group-title="台湾hstv" ,华视新闻资讯A
+
+#EXTINF:-1 group-title="台湾hstv" ,华视新闻资讯
 http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv052&nid=34
 #EXTINF:-1 group-title="台湾hstv" ,Ginx Esports
-http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=4gtv-4gtv053
+
 #EXTINF:-1 group-title="台湾hstv" ,靖天欢乐台
-http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=4gtv-4gtv054
-#EXTINF:-1 group-title="台湾hstv" ,靖天映画台A
+
+#EXTINF:-1 group-title="台湾hstv" ,靖天映画台
 http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv055&nid=42
 #EXTINF:-1 group-title="台湾hstv" ,台视财经
-http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=4gtv-4gtv056
+
 #EXTINF:-1 group-title="台湾hstv" ,靖洋卡通
-http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=4gtv-4gtv057
+
 #EXTINF:-1 group-title="台湾hstv" ,靖天戏剧
-http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=4gtv-4gtv058
+
 #EXTINF:-1 group-title="台湾hstv" ,CLASSICA 古典乐
-http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=4gtv-4gtv059
-#EXTINF:-1 group-title="台湾hstv" ,靖天电影台A
+
+#EXTINF:-1 group-title="台湾hstv" ,靖天电影台
 http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv061&nid=82
 #EXTINF:-1 group-title="台湾hstv" ,靖天育乐台
-http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=4gtv-4gtv062
+
 #EXTINF:-1 group-title="台湾hstv" ,靖天国际台
-http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=4gtv-4gtv063
+
 #EXTINF:-1 group-title="台湾hstv" ,中视精彩
-http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=4gtv-4gtv064
+
 #EXTINF:-1 group-title="台湾hstv" ,靖天资讯台
-http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=4gtv-4gtv065
+
 #EXTINF:-1 group-title="台湾hstv" ,台视
-http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=4gtv-4gtv066
+
 #EXTINF:-1 group-title="台湾hstv" ,TVBS精彩
-http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=4gtv-4gtv067
+
 #EXTINF:-1 group-title="台湾hstv" ,TVBS欢乐
-http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=4gtv-4gtv068
+
 #EXTINF:-1 group-title="台湾hstv" ,爱尔达娱乐
-http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=4gtv-4gtv070
-#EXTINF:-1 group-title="台湾hstv" ,TVBS新闻A
+
+#EXTINF:-1 group-title="台湾hstv" ,TVBS新闻
 http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live072&nid=129
 #EXTINF:-1 group-title="台湾hstv" ,TVBS
 http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv073&nid=183
 #EXTINF:-1 group-title="台湾hstv" ,中视新闻
 http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv074&nid=33
 #EXTINF:-1 group-title="台湾hstv" ,Catch Play
-http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=4gtv-4gtv076
+
 #EXTINF:-1 group-title="台湾hstv" ,Trace Sports
-http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=4gtv-4gtv077
-#EXTINF:-1 group-title="台湾hstv" ,阿里郎頻道A
+
+#EXTINF:-1 group-title="台湾hstv" ,阿里郎頻道
 http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv079&nid=189
 #EXTINF:-1 group-title="台湾hstv" ,中视经典
-http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=4gtv-4gtv080
+
 #EXTINF:-1 group-title="台湾hstv" ,Trace Urban
-http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=4gtv-4gtv082
+
 #EXTINF:-1 group-title="台湾hstv" ,Mezzo Live HD
-http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=4gtv-4gtv083
+
 #EXTINF:-1 group-title="台湾hstv" ,国会频道1
 http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv084&nid=170
 #EXTINF:-1 group-title="台湾hstv" ,国会频道2
@@ -284,65 +285,64 @@ http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live047&nid=173
 #EXTINF:-1 group-title="台湾hstv" ,东森购物2
 http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live046&nid=174
 #EXTINF:-1 group-title="台湾hstv" ,财经频道
-http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=4gtv-4gtv104
+
 #EXTINF:-1 group-title="台湾hstv" ,中天亚洲
-http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=4gtv-4gtv109
-#EXTINF:-1 group-title="台湾hstv" ,V0A美國之音A
+
+#EXTINF:-1 group-title="台湾hstv" ,V0A美國之音
 http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=litv-ftv03&nid=86
-#EXTINF:-1 group-title="台湾hstv" ,民視旅遊A
+#EXTINF:-1 group-title="台湾hstv" ,民視旅遊
 http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=litv-ftv07&nid=61
-#EXTINF:-1 group-title="台湾hstv" ,民視影劇A
+#EXTINF:-1 group-title="台湾hstv" ,民視影劇
 http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=litv-ftv09&nid=24
-#EXTINF:-1 group-title="台湾hstv" ,半島國際新聞A
+#EXTINF:-1 group-title="台湾hstv" ,半島國際新聞
 http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=litv-ftv10&nid=85
-#EXTINF:-1 group-title="台湾hstv" ,民視新聞台A
+#EXTINF:-1 group-title="台湾hstv" ,民視新聞台
 http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=litv-ftv13&nid=31
 #EXTINF:-1 group-title="台湾hstv" ,愛放i-Fun動漫台
-http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=litv-ftv15
+
 #EXTINF:-1 group-title="台湾hstv" ,好消息
-http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=litv-ftv16
+
 #EXTINF:-1 group-title="台湾hstv" ,好消息2
 http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=litv-ftv17&nid=8
 #EXTINF:-1 group-title="台湾hstv" ,龍華卡通
-http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=litv-longturn01
+
 #EXTINF:-1 group-title="台湾hstv" ,BabyFirst
-http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=litv-longturn02
-#EXTINF:-1 group-title="台湾hstv" ,龍華電影A
-http://for40255.sytes.net:8099/tv/iptv/litvts.php?id=litv-longturn03&nid=121
+
+#EXTINF:-1 group-title="台湾hstv" ,龍華電影
+
 #EXTINF:-1 group-title="台湾hstv" ,博斯魅力
-http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=litv-longturn04
+
 #EXTINF:-1 group-title="台湾hstv" ,博斯高球1
-http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=litv-longturn05
+
 #EXTINF:-1 group-title="台湾hstv" ,博斯高球2
-http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=litv-longturn06
+
 #EXTINF:-1 group-title="台湾hstv" ,博斯運動1
-http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=litv-longturn07
+
 #EXTINF:-1 group-title="台湾hstv" ,博斯運動2
-http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=litv-longturn08
+
 #EXTINF:-1 group-title="台湾hstv" ,博斯網球
-http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=litv-longturn09
+
 #EXTINF:-1 group-title="台湾hstv" ,博斯無限
-http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=litv-longturn10
+
 #EXTINF:-1 group-title="台湾hstv" ,龍華日韓
-http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=litv-longturn11
+
 #EXTINF:-1 group-title="台湾hstv" ,龍華偶像
-http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=litv-longturn12
+
 #EXTINF:-1 group-title="台湾hstv" ,博斯電玩
-http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=litv-longturn13
+
 #EXTINF:-1 group-title="台湾hstv" ,寰宇新闻台
-http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=litv-longturn14
+
 #EXTINF:-1 group-title="台湾hstv" ,寰宇新聞台湾台
-http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=litv-longturn15
+
 #EXTINF:-1 group-title="台湾hstv" ,梅蒂斯藝術
-http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=litv-longturn16
+
 #EXTINF:-1 group-title="台湾hstv" ,亞洲旅遊A
 http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=litv-longturn17&nid=250
 #EXTINF:-1 group-title="台湾hstv" ,龍華戲劇
-http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=litv-longturn18
+
 #EXTINF:-1 group-title="台湾hstv" ,FashionOne
-http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=litv-longturn19
-#EXTINF:-1 group-title="台湾hstv" ,ELTV英語A
+
+#EXTINF:-1 group-title="台湾hstv" ,ELTV英語
 http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=litv-longturn20&nid=106
 #EXTINF:-1 group-title="台湾hstv" ,龙华经典
-http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=litv-longturn21
 
