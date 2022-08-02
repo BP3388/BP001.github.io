@@ -97,17 +97,17 @@ https://tglmp02.akamaized.net/out/v1/4f6561ad194b49ae93f4e1b075afdf41/manifest.m
 https://tglmp03.akamaized.net/out/v1/1057d89ee3d94148b430b5866e3a540a/manifest.mpd
 
 #EXTINF:0 tvg-id="" group-title="MY TV",OKEY 
-https://list.iptvcat.com/my_list/s/e53ffd2640ae2bb6fa6e310580e12313.m3u8
+https://d25tgymtnqzu8s.cloudfront.net/smil:okey/playlist.m3u8
 #EXTINF:0 tvg-id="" group-title="MY TV",Sukan RTM 
-https://list.iptvcat.com/my_list/s/885ee5277a480e6045d262a2c70729c2.m3u8
+https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/playlist.m3u8
 #EXTINF:0 tvg-id="" group-title="MY TV",TV1 
-https://list.iptvcat.com/my_list/s/395c710fa31c68cf7977b4cc227dc8c8.m3u8
+https://d25tgymtnqzu8s.cloudfront.net/smil:tv1/playlist.m3u8
 #EXTINF:0 tvg-id="" group-title="MY TV",TV2
-https://list.iptvcat.com/my_list/s/7481f6e3d1283f993f7fcc0817fe0337.m3u8
+https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/playlist.m3u8
 #EXTINF:0 tvg-id="" group-title="MY TV",TV6 
-https://list.iptvcat.com/my_list/s/8af7543fd2d6654866d260573d9b0675.m3u8
-#EXTINF:0 tvg-id="" group-title="MY TV",Channel News Asia
-https://list.iptvcat.com/my_list/s/a7e05eef940fb656407c55a172e6b861.m3u8
+https://d25tgymtnqzu8s.cloudfront.net/smil:tv6/playlist.m3u8
+#EXTINF:0 tvg-id="" group-title="MY TV",Berita RTM
+https://d25tgymtnqzu8s.cloudfront.net/smil:berita/playlist.m3u8
 
 
 
@@ -149,19 +149,15 @@ https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m
 
 ======= 新闻 ============
 #EXTINF:-1 tvg-id="6023" tvg-name="CNN" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/CNNNews.png" group-title="新闻",CNN
-https://cnn-cnninternational-1-gb.samsung.wurl.com/manifest/playlist_1280x720_3000k.m3u8
+https://cnn-cnninternational-1-de.samsung.wurl.com/manifest/playlist_1280x720_3000k.m3u8
 
 
 #EXTINF:-1 group-title="新闻", SG NewsAsia
 https://i.mjh.nz/au/Sydney/tv.cna.m3u8
 
 #EXTINF:-1 group-title="新闻", CNA
-http://210.210.155.35/uq2663/h/h29/02.m3u8
+https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
 
-#EXTINF:-1 tvg-logo="http://static.epg.best/gb/CNN.uk.png" group-title="新闻", CNN INT
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1
-https://liveanevia.mncnow.id/live/eds/CNNInternational/sa_dash_vmx/CNNInternational.mpd
 
 
 
@@ -173,7 +169,7 @@ https://liveanevia.mncnow.id/live/eds/CNNInternational/sa_dash_vmx/CNNInternatio
 http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live207&nid=169
 #EXTINF:-1 group-title="台湾hstv" ,民视台湾台
 http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv001&nid=2
-#EXTINF:-1 group-title="台湾hstv" ,民视A
+#EXTINF:-1 group-title="台湾hstv" ,民视
 http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv002&nid=3
 #EXTINF:-1 group-title="台湾hstv" ,民视第一台
 http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv003&nid=1
