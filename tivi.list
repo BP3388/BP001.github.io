@@ -1,7 +1,12 @@
 
 #EXTM3U
-#EXTINF:-1 tvg-id="6246" tvg-name="CHC家庭电影"group-title="WEBTV",SPO TV2
+#EXTINF:-1 group-title="WEBTV",SPOTV
+http://royx.xyz:80/play/live.php?mac=00:1a:79:56:77:6c&extension=m3u8&stream=941564
+#EXTINF:-1 group-title="WEBTV",SPOTV2
 http://royx.xyz:80/play/live.php?mac=00:1a:79:56:77:6c&extension=m3u8&stream=941563
+
+
+
 #EXTINF:-1 tvg-id="6246" tvg-name="CHC家庭电影" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC2.jpg" group-title="网络电视",CHC家庭影院
 http://113.62.253.9/live.aishang.ctlcdn.com/00000110240323_1/encoder/0/playlist.m3u8?CONTENTID=00000110240323_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR
 #EXTINF:-1 tvg-id="6241" tvg-name="CHC高清电影" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC3.jpg" group-title="网络电视",CHC高清电影
