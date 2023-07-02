@@ -8,6 +8,16 @@ http://sc2022.stream-link.org/tv2306.php?id=h03
 http://sc2022.stream-link.org/tv2306.php?id=h04
 #EXTINF:-1 group-title="TV GROUP",JADE
 http://sc2022.stream-link.org/tv2306.php?id=h02
+#EXTINF:-1 group-title="TV GROUP",TVB FINANCE
+http://sc2022.stream-link.org/tv2306.php?id=h05
+#EXTINF:-1 group-title="TV GROUP",TVB NEWS 1
+http://sc2022.stream-link.org/tv2306.php?id=h06
+#EXTINF:-1 group-title="TV GROUP",TVBS NEWS 
+http://sc2022.stream-link.org/tv2306.php?id=t13
+
+
+
+
 
 
 
