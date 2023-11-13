@@ -9,8 +9,12 @@ http://111.20.40.166/PLTV/88888893/224/3221226463/index.m3u8
 #EXTINF:-1 tvg-id="6245" tvg-name="CHC动作电影" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC1.jpg" group-title="网络电视",CHC动作电影
 http://111.20.40.166/PLTV/88888893/224/3221226465/index.m3u8
 
-
-
+#EXTINF:-1 tvg-id="" tvg-name=""group-title="新闻台",CNA 
+https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
+#EXTINF:-1 tvg-id="" tvg-name=""group-title="新闻台",NHK世界
+https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_4M.m3u8
+#EXTINF:-1 tvg-id="" tvg-name=""group-title="新闻台",半岛新闻
+http://live-hls-web-aje.getaj.net/AJE/01.m3u8
 
 
 
