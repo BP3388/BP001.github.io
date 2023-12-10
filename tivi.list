@@ -1,5 +1,5 @@
 
-#EXTM3U
+#EXTM3U x-tvg-url="https://live.fanmingming.com/e.xml"
 #EXTINF:-1 tvg-id="" tvg-name=""group-title="网络电视",影院
 https://nhls.mcloud.139.com/hls/K234617be51cf1fe4547a37a7ea3f736f6/playlist.m3u8?ci=0111RnixZ2310842023092715334786q&fileSize=1776486181
 #EXTINF:-1 tvg-id="6246" tvg-name="CHC家庭电影" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC2.jpg" group-title="网络电视",CHC家庭影院
