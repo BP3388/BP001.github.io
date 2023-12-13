@@ -4,7 +4,10 @@
 http://180.97.247.27/1301-tx.otvstream.otvcloud.com/otv/skcc/live/channel52003/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name=""group-title="网络电视",凤凰资讯
 http://180.97.247.27/1301-tx.otvstream.otvcloud.com/otv/skcc/live/channel52002/index.m3u8
-
+#EXTINF:-1 tvg-id="" tvg-name=""group-title="网络电视",凤凰中文A
+http://php.17186.eu.org/phtv/fhzw.m3u8
+#EXTINF:-1 tvg-id="" tvg-name=""group-title="网络电视",凤凰资讯A
+http://php.17186.eu.org/phtv/fhzx.m3u8
 
 
 
