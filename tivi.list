@@ -27,14 +27,15 @@ http://111.20.40.166/PLTV/88888893/224/3221226463/index.m3u8
 http://111.20.40.166/PLTV/88888893/224/3221226465/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name=""group-title="新闻台",CNA 
-http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
+http://210.210.155.37/session/b86f93a4-b2c6-11ed-8b6a-b82a72d63267/uq2663/h/h29/index10.m3u8
 #EXTINF:-1 tvg-id="" tvg-name=""group-title="新闻台",NHK世界
 http://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_4M.m3u8
 #EXTINF:-1 tvg-id="" tvg-name=""group-title="新闻台",半岛新闻
 http://live-hls-web-aje.getaj.net/AJE/01.m3u8
-
-
-
+#EXTINF:-1 tvg-id="" tvg-name=""group-title="新闻台",CNN
+http://198.16.100.90:8278/cnn_twn/playlist.m3u8?tid=ME9E1590756115907561&ct=19225&tsum=adf5db9504938a69e07bad07c9d6f7d6
+#EXTINF:-1 tvg-id="" tvg-name=""group-title="新闻台",半岛新闻
+#EXTINF:-1 tvg-id="" tvg-name=""group-title="新闻台",半岛新闻
 
 
 #EXTINF:-1,tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://epg.112114.xyz/logo/CCTV1.png" group-title="央视",CCTV1 8M
