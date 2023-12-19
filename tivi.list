@@ -12,9 +12,10 @@ http://198.16.100.90:8278/phoenixinfo_hd/playlist.m3u8?tid=m7f4a830029be&ct=1833
 http://198.16.100.90:8278/jade_twn/playlist.m3u8?tid=MDAD1890217018902170&ct=19249&tsum=36346362d72a1e85802fa5d3eee3861c
 #EXTINF:-1 tvg-id="" tvg-name=""group-title="网络电视",明珠台
 http://198.16.100.90:8278/pearl_twn/playlist.m3u8?tid=MC6C7041327570413275&ct=19226&tsum=681972baf66d69caf7cccc92a90e5aad
-#EXTINF:-1 tvg-id="" tvg-name=""group-title="港台",
-
-#EXTINF:-1 tvg-id="" tvg-name=""group-title="港台",
+#EXTINF:-1 tvg-id="" tvg-name=""group-title="港台",world
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV02.m3u8
+#EXTINF:-1 tvg-id="" tvg-name=""group-title="港台",幸福空間居家
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV41.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name=""group-title="港台",
 
