@@ -1,36 +1,36 @@
 
 #EXTM3U x-tvg-url="https://live.fanmingming.com/e.xml"
-#EXTINF:-1 tvg-id="" tvg-name=""group-title="TEST",CCTV-1
+#EXTINF:-1 tvg-id="" tvg-name=""group-title="浙江金华",CCTV-1
 http://112.17.52.85/PLTV/88888888/224/3221233701/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name=""group-title="TEST",CCTV-2
+#EXTINF:-1 tvg-id="" tvg-name=""group-title="浙江金华",CCTV-2
 http://112.17.52.85/PLTV/88888888/224/3221233718/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name=""group-title="TEST",CCTV-3
+#EXTINF:-1 tvg-id="" tvg-name=""group-title="浙江金华",CCTV-3
 http://112.17.52.85/PLTV/88888888/224/3221233715/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name=""group-title="TEST",CCTV-4
+#EXTINF:-1 tvg-id="" tvg-name=""group-title="浙江金华",CCTV-4
 http://112.17.52.85/PLTV/88888888/224/3221233686/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name=""group-title="TEST",CCTV-5
+#EXTINF:-1 tvg-id="" tvg-name=""group-title="浙江金华",CCTV-5
 http://112.17.52.85/PLTV/88888888/224/3221233724/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name=""group-title="TEST",CCTV-6
-http://112.17.52.85/PLTV/88888888/224/3221233686/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name=""group-title="TEST",CCTV-7
+http://112.17.52.85/PLTV/88888888/224/3221233713/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name=""group-title="浙江金华",CCTV-7
 http://112.17.52.85/PLTV/88888888/224/3221233709/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name=""group-title="TEST",CCTV-8
+#EXTINF:-1 tvg-id="" tvg-name=""group-title="浙江金华",CCTV-8
 http://112.17.52.85/PLTV/88888888/224/3221233721/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name=""group-title="TEST",CCTV-9
+#EXTINF:-1 tvg-id="" tvg-name=""group-title="浙江金华",CCTV-9
 http://kjsp.aikan.miguvideo.com/PLTV/88888888/224/3221233706/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name=""group-title="TEST",CCTV-10
+#EXTINF:-1 tvg-id="" tvg-name=""group-title="浙江金华",CCTV-10
 http://112.17.52.85/PLTV/88888888/224/3221233704/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name=""group-title="TEST",CCTV-11
+#EXTINF:-1 tvg-id="" tvg-name=""group-title="浙江金华",CCTV-11
 http://112.17.52.85/PLTV/88888888/224/3221233733/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name=""group-title="TEST",CCTV-12
+#EXTINF:-1 tvg-id="" tvg-name=""group-title="浙江金华",CCTV-12
 http://112.17.52.85/PLTV/88888888/224/3221233727/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name=""group-title="TEST",CCTV-13
+#EXTINF:-1 tvg-id="" tvg-name=""group-title="浙江金华",CCTV-13
 http://112.17.52.85/PLTV/88888888/224/3221233712/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name=""group-title="TEST",CCTV-14
+#EXTINF:-1 tvg-id="" tvg-name=""group-title="浙江金华",CCTV-14
 http://112.17.52.85/PLTV/88888888/224/3221233698/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name=""group-title="TEST",CCTV-16
+#EXTINF:-1 tvg-id="" tvg-name=""group-title="浙江金华",CCTV-16
 http://112.17.52.85/PLTV/88888888/224/3221233710/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name=""group-title="TEST",CCTV-4K
+#EXTINF:-1 tvg-id="" tvg-name=""group-title="浙江金华",CCTV-4K
 http://112.17.52.85/PLTV/88888888/224/3221233679/index.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
