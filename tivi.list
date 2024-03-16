@@ -33,12 +33,12 @@ https://rest-as.ott.kaltura.com/api_v3/service/assetFile/action/playManifest/par
 #EXTINF:-1 group-title="Mediacorp SG" tvg-id="Vasantham" tvg-chno="Vasantham" tvg-logo="https://production.togglestatic.com/shain/v1/dataservice/ResizeImage/%24value?Format=%27png%27&Quality=85&ImageId=%271776032%27&EntityType=%27Item%27&EntityId=%2797096%27&Width=129&Height=63&ResizeAction=%27fill%27&HorizontalAlignment=%27center%27&VerticalAlignment=%27top%27",Vasantham
 https://rest-as.ott.kaltura.com/api_v3/service/assetFile/action/playManifest/partnerId/147/assetId/237653/assetType/media/assetFileId/5754108/contextType/PLAYBACK/isAltUrl/False/a.mpd
 
-#EXTINF:-1 tvg-id="" tvg-name=""group-title="浙江金华",CCTV-1
-http://112.17.52.85/PLTV/88888888/224/3221233701/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name=""group-title="浙江金华",CCTV-2
-http://112.17.52.85/PLTV/88888888/224/3221233718/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name=""group-title="浙江金华",CCTV-3
-http://112.17.52.85/PLTV/88888888/224/3221233715/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name=""group-title="8M",CCTV-1
+http://140.249.247.165/qhbuv52.live.bestvcdn.com.cn/live/program/live/cctv1hd8m/8000000/mnf.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="",CCTV-2
+http://140.249.247.165/qhbuv52.live.bestvcdn.com.cn/live/program/live/cctv2hd8m/8000000/mnf.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="",CCTV-3
+http://140.249.247.165/qhbuv52.live.bestvcdn.com.cn/live/program/live/cctv38m/8000000/mnf.m3u8
 #EXTINF:-1 tvg-id="" tvg-name=""group-title="浙江金华",CCTV-4
 http://112.17.52.85/PLTV/88888888/224/3221233686/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name=""group-title="浙江金华",CCTV-5
