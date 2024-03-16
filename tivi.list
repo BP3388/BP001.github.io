@@ -70,9 +70,34 @@ http://140.249.247.165/qhbuv52.live.bestvcdn.com.cn/live/program/live/cctv16hd8m
 #EXTINF:-1 tvg-id="" tvg-name="",CCTV-17
 http://140.249.247.165/qhbuv52.live.bestvcdn.com.cn/live/program/live/cctv17hd8m/8000000/mnf.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="",北京卫视 
+http://140.249.247.166/qhbuv52.live.bestvcdn.com.cn/live/program/live/bjwshd8m/8000000/mnf.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="",东方卫视
+http://140.249.247.166/qhbuv52.live.bestvcdn.com.cn/live/program/live/dfwshd8m/8000000/mnf.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="",天津卫视
+http://140.249.247.166/qhbuv52.live.bestvcdn.com.cn/live/program/live/tjwshd8m/8000000/mnf.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="",河南卫视
+http://140.249.247.166/qhbuv52.live.bestvcdn.com.cn/live/program/live/hnwshd8m/8000000/mnf.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="",湖北卫视
+http://140.249.247.166/qhbuv52.live.bestvcdn.com.cn/live/program/live/hubeiws8m/8000000/mnf.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="",湖南卫视
+http://140.249.247.166/qhbuv52.live.bestvcdn.com.cn/live/program/live/hunanwshd8m/8000000/mnf.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="",江西卫视
+http://140.249.247.166/qhbuv52.live.bestvcdn.com.cn/live/program/live/jxws8m/8000000/mnf.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="",江苏卫视
+http://140.249.247.166/qhbuv52.live.bestvcdn.com.cn/live/program/live/jswshd8m/8000000/mnf.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="",浙江卫视
+http://140.249.247.166/qhbuv52.live.bestvcdn.com.cn/live/program/live/zjwshd8m/8000000/mnf.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="",东南卫视
+http://140.249.247.166/qhbuv52.live.bestvcdn.com.cn/live/program/live/dnwshd8m/8000000/mnf.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="",广东卫视
+http://140.249.247.166/qhbuv52.live.bestvcdn.com.cn/live/program/live/gdwshd8m/8000000/mnf.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="",深圳卫视
+http://140.249.247.166/qhbuv52.live.bestvcdn.com.cn/live/program/live/szwshd8m/8000000/mnf.m3u8
 
 
-
+#EXTINF:-1 tvg-id="" tvg-name="",
+#EXTINF:-1 tvg-id="" tvg-name="",
 
 #EXTINF:-1 tvg-id="" tvg-name=""group-title="港台",八大综合台
 http://198.16.100.90:8278/badazhonghe/playlist.m3u8?tid=MC7C4692263546922635&ct=19225&tsum=ffdc7a6397b511103e0df0b92e678790
