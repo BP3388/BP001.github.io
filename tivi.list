@@ -39,32 +39,36 @@ http://140.249.247.165/qhbuv52.live.bestvcdn.com.cn/live/program/live/cctv1hd8m/
 http://140.249.247.165/qhbuv52.live.bestvcdn.com.cn/live/program/live/cctv2hd8m/8000000/mnf.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="",CCTV-3
 http://140.249.247.165/qhbuv52.live.bestvcdn.com.cn/live/program/live/cctv38m/8000000/mnf.m3u8
-#EXTINF:-1 tvg-id="" tvg-name=""group-title="浙江金华",CCTV-4
-http://112.17.52.85/PLTV/88888888/224/3221233686/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name=""group-title="浙江金华",CCTV-5
-http://112.17.52.85/PLTV/88888888/224/3221233724/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name=""group-title="浙江金华",CCTV-6
-http://112.17.52.85/PLTV/88888888/224/3221233713/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name=""group-title="浙江金华",CCTV-7
-http://112.17.52.85/PLTV/88888888/224/3221233709/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name=""group-title="浙江金华",CCTV-8
-http://112.17.52.85/PLTV/88888888/224/3221233721/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name=""group-title="浙江金华",CCTV-9
-http://kjsp.aikan.miguvideo.com/PLTV/88888888/224/3221233706/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name=""group-title="浙江金华",CCTV-10
-http://112.17.52.85/PLTV/88888888/224/3221233704/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name=""group-title="浙江金华",CCTV-11
-http://112.17.52.85/PLTV/88888888/224/3221233733/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name=""group-title="浙江金华",CCTV-12
-http://112.17.52.85/PLTV/88888888/224/3221233727/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name=""group-title="浙江金华",CCTV-13
-http://112.17.52.85/PLTV/88888888/224/3221233712/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name=""group-title="浙江金华",CCTV-14
-http://112.17.52.85/PLTV/88888888/224/3221233698/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name=""group-title="浙江金华",CCTV-16
-http://112.17.52.85/PLTV/88888888/224/3221233710/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name=""group-title="浙江金华",CCTV-4K
-http://112.17.52.85/PLTV/88888888/224/3221233679/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="",CCTV-4
+http://140.249.247.165/qhbuv52.live.bestvcdn.com.cn/live/program/live/cctv4hd8m/8000000/mnf.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="",CCTV-5
+http://140.249.247.165/qhbuv52.live.bestvcdn.com.cn/live/program/live/cctv58m/8000000/mnf.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="",CCTV-5+ 
+http://140.249.247.165/qhbuv52.live.bestvcdn.com.cn/live/program/live/cctv5phd8m/8000000/mnf.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="",CCTV-6
+http://140.249.247.165/qhbuv52.live.bestvcdn.com.cn/live/program/live/cctv6hd8m/8000000/mnf.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="",CCTV-7
+http://140.249.247.165/qhbuv52.live.bestvcdn.com.cn/live/program/live/cctv7hd8m/8000000/mnf.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="",CCTV-8
+http://140.249.247.165/qhbuv52.live.bestvcdn.com.cn/live/program/live/cctv8hd8m/8000000/mnf.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="",CCTV-9
+http://140.249.247.165/qhbuv52.live.bestvcdn.com.cn/live/program/live/cctv9hd8m/8000000/mnf.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="",CCTV-10
+http://140.249.247.165/qhbuv52.live.bestvcdn.com.cn/live/program/live/cctv10hd8m/8000000/mnf.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="",CCTV-11
+http://140.249.247.165/qhbuv52.live.bestvcdn.com.cn/live/program/live/cctv11hd8m/8000000/mnf.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="",CCTV-12
+http://140.249.247.165/qhbuv52.live.bestvcdn.com.cn/live/program/live/cctv12hd8m/8000000/mnf.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="",CCTV-13
+http://140.249.247.165/qhbuv52.live.bestvcdn.com.cn/live/program/live/cctv13xwhd8m/8000000/mnf.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="",CCTV-14
+http://140.249.247.165/qhbuv52.live.bestvcdn.com.cn/live/program/live/cctvsehd8m/8000000/mnf.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="",CCTV-15
+http://140.249.247.165/qhbuv52.live.bestvcdn.com.cn/live/program/live/cctv15hd8m/8000000/mnf.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="",CCTV-16
+http://140.249.247.165/qhbuv52.live.bestvcdn.com.cn/live/program/live/cctv16hd8m/8000000/mnf.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="",CCTV-17
+http://140.249.247.165/qhbuv52.live.bestvcdn.com.cn/live/program/live/cctv17hd8m/8000000/mnf.m3u8
 
 
 
