@@ -33,6 +33,20 @@ https://rest-as.ott.kaltura.com/api_v3/service/assetFile/action/playManifest/par
 #EXTINF:-1 group-title="Mediacorp SG" tvg-id="Vasantham" tvg-chno="Vasantham" tvg-logo="https://production.togglestatic.com/shain/v1/dataservice/ResizeImage/%24value?Format=%27png%27&Quality=85&ImageId=%271776032%27&EntityType=%27Item%27&EntityId=%2797096%27&Width=129&Height=63&ResizeAction=%27fill%27&HorizontalAlignment=%27center%27&VerticalAlignment=%27top%27",Vasantham
 https://rest-as.ott.kaltura.com/api_v3/service/assetFile/action/playManifest/partnerId/147/assetId/237653/assetType/media/assetFileId/5754108/contextType/PLAYBACK/isAltUrl/False/a.mpd
 
+#EXTINF:-1 group-title="astroSsports.My" tvg-logo="https://camo.githubusercontent.com/d644419cf8a32b205ca08ee16e30b615a279bdfa3f0c1948f78d19fc769c688b/68747470733a2f2f64697669676e306664773373762e636c6f756466726f6e742e6e65742f496d616765732f4368616e6e656c4c6f676f2f636f6e74656e746875622f3135345f3134342e706e67",Astro Supersports 
+https://donelfantastic.github.io/live/astroSsport.m3u8
+#EXTINF:-1 group-title="astroSsports.My" tvg-logo="https://camo.githubusercontent.com/f08d81cc47038b4913abfb4791fc16f5ce57d3be190bade90752b7b428fd45ad/68747470733a2f2f64697669676e306664773373762e636c6f756466726f6e742e6e65742f496d616765732f4368616e6e656c4c6f676f2f636f6e74656e746875622f3133385f3134342e706e67",Astro Supersports 2 
+https://donelfantastic.github.io/live/astroSsport2.m3u8
+#EXTINF:-1 group-title="astroSsports.My" tvg-logo="https://camo.githubusercontent.com/c025fb15051179bf182b187ac8ddcb0541fb8555bbefab57a3aaa3071f4011c5/68747470733a2f2f64697669676e306664773373762e636c6f756466726f6e742e6e65742f496d616765732f4368616e6e656c4c6f676f2f636f6e74656e746875622f3136345f3134342e706e67",Astro Supersports 3 
+https://donelfantastic.github.io/live/astroSsport3.m3u8
+#EXTINF:-1 group-title="astroSsports.My" tvg-logo="https://camo.githubusercontent.com/d699b16f8d5751e83b07ae64607039f9cb8ee0010caa09b4d12d41600e2031f2/68747470733a2f2f64697669676e306664773373762e636c6f756466726f6e742e6e65742f496d616765732f4368616e6e656c4c6f676f2f636f6e74656e746875622f3234315f3134342e706e67",Astro Supersports 4
+https://donelfantastic.github.io/live/astroSsport4.m3u8
+
+
+
+
+
+
 #EXTINF:-1 tvg-id="" tvg-name=""group-title="8M",CCTV-1
 http://140.249.247.165/qhbuv52.live.bestvcdn.com.cn/live/program/live/cctv1hd8m/8000000/mnf.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="",CCTV-2
