@@ -85,29 +85,25 @@ http://39.136.18.180/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226283/1/in
 http://39.136.18.180/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226027/1/index.m3u8?fmt=ts2hls
 
 #EXTINF:-1 tvg-id="" tvg-name="",北京卫视 
-http://140.249.247.166/qhbuv52.live.bestvcdn.com.cn/live/program/live/bjwshd8m/8000000/mnf.m3u8
+http://39.136.18.180/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225754/1/index.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-id="" tvg-name="",东方卫视
-http://140.249.247.166/qhbuv52.live.bestvcdn.com.cn/live/program/live/dfwshd8m/8000000/mnf.m3u8
+http://39.136.18.180/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225752/1/index.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-id="" tvg-name="",天津卫视
-http://140.249.247.166/qhbuv52.live.bestvcdn.com.cn/live/program/live/tjwshd8m/8000000/mnf.m3u8
+http://39.136.18.180/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225756/1/index.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-id="" tvg-name="",河南卫视
-http://140.249.247.166/qhbuv52.live.bestvcdn.com.cn/live/program/live/hnwshd8m/8000000/mnf.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="",湖北卫视
-http://140.249.247.166/qhbuv52.live.bestvcdn.com.cn/live/program/live/hubeiws8m/8000000/mnf.m3u8
+http://39.136.18.180/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225709/1/index.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-id="" tvg-name="",湖南卫视
-http://140.249.247.166/qhbuv52.live.bestvcdn.com.cn/live/program/live/hunanwshd8m/8000000/mnf.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="",江西卫视
-http://140.249.247.166/qhbuv52.live.bestvcdn.com.cn/live/program/live/jxws8m/8000000/mnf.m3u8
+http://39.136.18.180/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225778/1/index.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-id="" tvg-name="",江苏卫视
-http://140.249.247.166/qhbuv52.live.bestvcdn.com.cn/live/program/live/jswshd8m/8000000/mnf.m3u8
+http://39.136.18.180/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225751/1/index.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-id="" tvg-name="",浙江卫视
-http://140.249.247.166/qhbuv52.live.bestvcdn.com.cn/live/program/live/zjwshd8m/8000000/mnf.m3u8
+http://39.136.18.180/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225780/1/index.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-id="" tvg-name="",东南卫视
-http://140.249.247.166/qhbuv52.live.bestvcdn.com.cn/live/program/live/dnwshd8m/8000000/mnf.m3u8
+http://39.136.18.180/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225739/1/index.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-id="" tvg-name="",广东卫视
-http://140.249.247.166/qhbuv52.live.bestvcdn.com.cn/live/program/live/gdwshd8m/8000000/mnf.m3u8
+http://39.136.18.180/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225720/1/index.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-id="" tvg-name="",深圳卫视
-http://140.249.247.166/qhbuv52.live.bestvcdn.com.cn/live/program/live/szwshd8m/8000000/mnf.m3u8
+http://39.136.18.180/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225712/1/index.m3u8?fmt=ts2hls
 
 
 #EXTINF:-1 tvg-id="" tvg-name="",
