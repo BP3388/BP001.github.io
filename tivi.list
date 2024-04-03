@@ -110,12 +110,11 @@ http://198.16.100.90:8278/videolandsport/playlist.m3u8?tid=MA6A1192684511926845&
 
 
 #EXTINF:-1 tvg-id="6246" tvg-name="CHC家庭电影" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC2.jpg" group-title="网络电视",CHC家庭影院
-http://111.20.40.166/PLTV/88888893/224/3221226462/index.m3u8
+http://39.134.18.193/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226462/index.m3u8
 #EXTINF:-1 tvg-id="6241" tvg-name="CHC高清电影" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC3.jpg" group-title="网络电视",CHC高清电影
-http://111.20.40.166/PLTV/88888893/224/3221226463/index.m3u8
+http://39.134.18.193/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226463/index.m3u8
 #EXTINF:-1 tvg-id="6245" tvg-name="CHC动作电影" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC1.jpg" group-title="网络电视",CHC动作电影
-http://111.20.40.166/PLTV/88888893/224/3221226465/index.m3u8
-
+http://39.134.18.193/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226465/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name=""group-title="新闻台",CNA 
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name=""group-title="新闻台",NHK世界
