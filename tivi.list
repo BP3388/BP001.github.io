@@ -250,13 +250,17 @@ https://node1.olelive.com:6443/live/CCTV16HD/hls.m3u8
 #EXTINF:-1,tvg-id="CCTV17" tvg-name="CCTV17" tvg-logo="https://epg.112114.xyz/logo/CCTV17.png" group-title="央视",CCTV-17 
 https://node1.olelive.com:6443/live/CCTV16HD/hls.m3u8
 
-
-
+#EXTINF:-1 tvg-name="凤凰中文" group-title="凤凰" tvg-logo="https://i.imgur.com/rwY7FHT.png",凤凰中文A
+http://play-flive.ifeng.com/live/06OLEGEGM4G.m3u8
+#EXTINF:-1  tvg-name="凤凰资讯"group-title="凤凰" tvg-logo="https://i.imgur.com/mt4h3VO.png",凤凰资讯B
+http://play-flive.ifeng.com/live/06OLEEWQKN4.m3u8
 #EXTINF:-1 tvg-name="凤凰中文" group-title="凤凰" tvg-logo="https://i.imgur.com/rwY7FHT.png",凤凰中文
 https://ctrl.laotv.la/live/PhxChinese/index.m3u8
-
 #EXTINF:-1  tvg-name="凤凰资讯"group-title="凤凰" tvg-logo="https://i.imgur.com/mt4h3VO.png",凤凰资讯
 https://ctrl.laotv.la/live/PhoenixNews/index.m3u8
+
+
+
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QFZs80p.png" group-title="MOVIES",EBC Movies
