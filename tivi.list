@@ -80,6 +80,8 @@ http://223.109.210.41/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221226095/index.m
 http://223.109.210.41/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225608/index.m3u8
 #EXTINF:-1 tvg-id="31" tvg-name="东方卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/dongfang.png" group-title="陕西秦岭云",东方卫视
 http://223.109.210.41/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225503/index.m3u8
+#EXTINF:-1 tvg-id="31" tvg-name="北京卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijing.png" group-title="陕西秦岭云",北京卫视
+http://223.109.210.41/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225502/index.m3u8
 #EXTINF:-1 tvg-id="58" tvg-name="云南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/yunnan.png" group-title="陕西秦岭云",云南卫视
 http://223.109.210.41/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221226063/index.m3u8
 #EXTINF:-1 tvg-id="51" tvg-name="吉林卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jilin.png" group-title="陕西秦岭云",吉林卫视
@@ -251,44 +253,11 @@ https://node1.olelive.com:6443/live/CCTV16HD/hls.m3u8
 
 
 
-
-
-
-
-i
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="KNOWLEDGE",Trvl Channel (L*)
-https://raw.githubusercontent.com/mimipipi22/lalajo/main/trvlchannel.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/TH5rfJM/SMITHSONIANCHANNEL.png" group-title="KNOWLEDGE", Smithsonian
-https://smithsonianaus-samsungau.amagi.tv/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="KNOWLEDGE", Discovery Kid (L*)
-https://raw.githubusercontent.com/mimipipi22/lalajo/main/discoverykids.m3u8
-
-
-
-
-
-
-
-
-#EXTINF:-1 group-title="LIFESTYLE" tvg-logo="" ,The Food Network (L*)
-https://raw.githubusercontent.com/mimipipi22/lalajo/main/foodnetwork.m3u8
-
-#EXTINF:-1 group-title="LIFESTYLE" tvg-logo="https://images.useetv.com/logo_tlc_ver1.png",TLC (L*)
-https://raw.githubusercontent.com/mimipipi22/lalajo/main/tlc.m3u8
-
-#EXTINF:-1 tvg-name="凤凰中文" group-title="NEWS" tvg-logo="https://i.imgur.com/rwY7FHT.png",凤凰中文
+#EXTINF:-1 tvg-name="凤凰中文" group-title="凤凰" tvg-logo="https://i.imgur.com/rwY7FHT.png",凤凰中文
 https://ctrl.laotv.la/live/PhxChinese/index.m3u8
 
-#EXTINF:-1  group-title="NEWS" tvg-logo="https://i.imgur.com/mt4h3VO.png",Phoenix News
+#EXTINF:-1  tvg-name="凤凰资讯"group-title="凤凰" tvg-logo="https://i.imgur.com/mt4h3VO.png",凤凰资讯
 https://ctrl.laotv.la/live/PhoenixNews/index.m3u8
-
-#EXTINF:-1 group-title="LIFESTYLE" tvg-logo="http://www.orcacommunications.com/wp-content/uploads/2018/01/hgtv.png", HGTV (L*)
-https://raw.githubusercontent.com/mimipipi22/lalajo/main/hgtv.m3u8
-
-
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QFZs80p.png" group-title="MOVIES",EBC Movies
