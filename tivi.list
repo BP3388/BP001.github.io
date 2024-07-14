@@ -2,6 +2,44 @@
 #EXTM3U x-tvg-url="https://live.fanmingming.com/e.xml"
 #EXTM3U x-tvg-url="https://github.com/AqFad2811/epg/raw/main/singapore.xml" url-tvg="https://github.com/AqFad2811/epg/raw/main/singapore.xml" refresh="1440" max-conn="1" refresh="24"
 
+#EXTINF:-1 group-title="蜀小果BBB" tvg-id="CCTV1" tvg-logo="https://tchiphuong.github.io/iptv/images/zh-cctv-1.png",CCTV-1
+http://58.215.231.9/live2.rxip.sc96655.com/live/CCTV-1H265_4000.m3u8
+#EXTINF:-1 tvg-id="CCTV2" tvg-logo="https://tchiphuong.github.io/iptv/images/zh-cctv-2.png",CCTV-2
+http://58.215.231.9/live2.rxip.sc96655.com/live/CCTV-2H265_4000.m3u8
+#EXTINF:-1 tvg-id="CCTV3" tvg-logo="https://tchiphuong.github.io/iptv/images/zh-cctv-3.png",CCTV-3
+http://58.215.231.9/live2.rxip.sc96655.com/live/CCTV-3H265_4000.m3u8
+#EXTINF:-1 tvg-id="CCTV4" tvg-logo="https://tchiphuong.github.io/iptv/images/zh-cctv-4.png",CCTV-4
+http://58.215.231.9/live2.rxip.sc96655.com/live/CCTV-4H265_4000.m3u8
+#EXTINF:-1 tvg-id="CCTV5" tvg-logo="https://tchiphuong.github.io/iptv/images/zh-cctv-5.png",CCTV-5
+http://58.215.231.9/live2.rxip.sc96655.com/live/CCTV-5H265_4000.m3u8
+#EXTINF:-1 tvg-id="CCTV5+" tvg-logo="https://tchiphuong.github.io/iptv/images/zh-cctv-5-plus.png",CCTV-5+
+http://58.215.231.9/live2.rxip.sc96655.com/live/CCTV-5plusH265_4000.m3u8
+#EXTINF:-1 tvg-id="CCTV6" tvg-logo="https://tchiphuong.github.io/iptv/images/zh-cctv-6.png",CCTV-6
+http://58.215.231.9/live2.rxip.sc96655.com/live/CCTV-6H265_4000.m3u8
+#EXTINF:-1 tvg-id="CCTV7" tvg-logo="https://tchiphuong.github.io/iptv/images/zh-cctv-7.png",CCTV-7
+http://58.215.231.9/live2.rxip.sc96655.com/live/CCTV-7H265_4000.m3u8
+#EXTINF:-1 tvg-id="CCTV8" tvg-logo="https://tchiphuong.github.io/iptv/images/zh-cctv-8.png",CCTV-8
+http://58.215.231.9/live2.rxip.sc96655.com/live/CCTV-8H265_4000.m3u8
+#EXTINF:-1 tvg-id="CCTV9" tvg-logo="https://tchiphuong.github.io/iptv/images/zh-cctv-9.png",CCTV-9
+http://58.215.231.9/live2.rxip.sc96655.com/live/CCTV-9H265_4000.m3u8
+#EXTINF:-1 tvg-id="CCTV10" tvg-logo="https://tchiphuong.github.io/iptv/images/zh-cctv-10.png",CCTV-10
+http://58.215.231.9/live2.rxip.sc96655.com/live/CCTV-10H265_4000.m3u8
+#EXTINF:-1 tvg-id="CCTV11" tvg-logo="https://tchiphuong.github.io/iptv/images/zh-cctv-11.png",CCTV-11
+http://58.215.231.9/live2.rxip.sc96655.com/live/CCTV-11-H265_4000.m3u8
+#EXTINF:-1 tvg-id="CCTV12" tvg-logo="https://tchiphuong.github.io/iptv/images/zh-cctv-12.png",CCTV-12
+http://58.215.231.9/live2.rxip.sc96655.com/live/CCTV-12H265_4000.m3u8
+#EXTINF:-1 tvg-id="CCTV13" tvg-logo="https://tchiphuong.github.io/iptv/images/zh-cctv-13.png",CCTV-13
+http://58.215.231.9/live2.rxip.sc96655.com/live/CCTV-xw_4000.m3u8
+#EXTINF:-1 tvg-id="CCTV14" tvg-logo="https://tchiphuong.github.io/iptv/images/zh-cctv-14.png",CCTV-14
+http://58.215.231.9/live2.rxip.sc96655.com/live/CCTV-14H265_4000.m3u8
+#EXTINF:-1 tvg-id="CCTV15" tvg-logo="https://tchiphuong.github.io/iptv/images/zh-cctv-15.png",CCTV-15
+http://58.215.231.9/live2.rxip.sc96655.com/live/CCTV-15-yyH265_4000.m3u8
+#EXTINF:-1 tvg-id="CCTV16" tvg-logo="https://tchiphuong.github.io/iptv/images/zh-cctv-16.png",CCTV-16
+http://58.215.231.9/live2.rxip.sc96655.com/live/CCTV-16_4000.m3u8
+#EXTINF:-1 tvg-id="CCTV17" tvg-logo="https://tchiphuong.github.io/iptv/images/zh-cctv-17.png",CCTV-17
+http://58.215.231.9/live2.rxip.sc96655.com/live/CCTV-17_4000.m3u8
+
+
 #EXTINF:-1 group-title="CCTV" tvg-id="CCTV1" tvg-logo="https://tchiphuong.github.io/iptv/images/zh-cctv-1.png",CCTV-1
 https://api.olelive.com/dis/live/CCTV1HD/hls.m3u8
 #EXTINF:-1 tvg-id="CCTV2" tvg-logo="https://tchiphuong.github.io/iptv/images/zh-cctv-2.png",CCTV-2
