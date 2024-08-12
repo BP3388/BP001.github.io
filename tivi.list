@@ -190,233 +190,229 @@ https://0472.org/hls/cgtnx.m3u8
 #EXTINF:-1 tvg-name="CGTN阿语" tvg-logo="https://live.fanmingming.com/tv/CGTN阿语.png" group-title="央视频道",CGTN阿语
 https://0472.org/hls/cgtna.m3u8
 
-#EXTINF:-1 group-title="IPV6 短尾",,🔥纯享超清4K
+#EXTINF:-1 group-title="IPV6 短尾",🔥纯享超清4K
 http://[2409:8087:5e00:24::10]:6060/200000001898/460000089800010006/
-#EXTINF:-1 group-title="IPV6 短尾",,🔥纯享超清4K
-http://[2409:8087:5e00:24::11]:6060/200000001898/460000089800010006/
-#EXTINF:-1 group-title="IPV6 短尾",,🔥纯享超清4K
-http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010006/
-#EXTINF:-1 group-title="IPV6 短尾",,🔥纯享超清4K
+#EXTINF:-1 group-title="IPV6 短尾",🔥纯享超清4K
 http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000004000011651/
-#EXTINF:-1 group-title="IPV6 短尾",,CCTV1
+#EXTINF:-1 group-title="IPV6 短尾",CCTV1
 http://[2409:8087:5e00:24::10]:6060/200000001898/460000089800010144/
-#EXTINF:-1 group-title="IPV6 短尾",,CCTV1
+#EXTINF:-1 group-title="IPV6 短尾",CCTV1
 http://[2409:8087:5e00:24::11]:6060/200000001898/460000089800010144/
-#EXTINF:-1 group-title="IPV6 短尾",,CCTV2
+#EXTINF:-1 group-title="IPV6 短尾",CCTV2
 http://[2409:8087:5e00:24::11]:6060/200000001898/460000089800010211/
-#EXTINF:-1 group-title="IPV6 短尾",,CCTV3
+#EXTINF:-1 group-title="IPV6 短尾",CCTV3
 http://[2409:8087:5e00:24::11]:6060/200000001898/460000089800010212/
-#EXTINF:-1 group-title="IPV6 短尾",,CCTV5
+#EXTINF:-1 group-title="IPV6 短尾",CCTV5
 http://[2409:8087:5e00:24::11]:6060/200000001898/460000089800010063/
-#EXTINF:-1 group-title="IPV6 短尾",,CCTV5
+#EXTINF:-1 group-title="IPV6 短尾",CCTV5
 http://[2409:8087:5e00:24::11]:6060/200000001898/460000089800010139/
-#EXTINF:-1 group-title="IPV6 短尾",,CCTV5
+#EXTINF:-1 group-title="IPV6 短尾",CCTV5
 http://[2409:8087:5e00:24::10]:6060/200000001898/460000089800010063/
-#EXTINF:-1 group-title="IPV6 短尾",,CCTV5
+#EXTINF:-1 group-title="IPV6 短尾",CCTV5
 http://[2409:8087:5e00:24::10]:6060/200000001898/460000089800010139/
-#EXTINF:-1 group-title="IPV6 短尾",,CCTV5
+#EXTINF:-1 group-title="IPV6 短尾",CCTV5
 http://[2409:8087:5e00:24::11]:6060/200000001898/460000089800010145/
-#EXTINF:-1 group-title="IPV6 短尾",,CCTV5+
+#EXTINF:-1 group-title="IPV6 短尾",CCTV5+
 http://[2409:8087:5e00:24::10]:6060/200000001898/460000089800010202/
-#EXTINF:-1 group-title="IPV6 短尾",,CCTV6
+#EXTINF:-1 group-title="IPV6 短尾",CCTV6
 http://[2409:8087:5e00:24::11]:6060/200000001898/460000089800010214/
-#EXTINF:-1 group-title="IPV6 短尾",,CCTV7
+#EXTINF:-1 group-title="IPV6 短尾",CCTV7
 http://[2409:8087:5e00:24::10]:6060/200000001898/460000089800010215/
-#EXTINF:-1 group-title="IPV6 短尾",,CCTV7
+#EXTINF:-1 group-title="IPV6 短尾",CCTV7
 http://[2409:8087:5e00:24::11]:6060/200000001898/460000089800010215/
-#EXTINF:-1 group-title="IPV6 短尾",,CCTV8
+#EXTINF:-1 group-title="IPV6 短尾",CCTV8
 http://[2409:8087:5e00:24::10]:6060/200000001898/460000089800010216/
-#EXTINF:-1 group-title="IPV6 短尾",,CCTV8
+#EXTINF:-1 group-title="IPV6 短尾",CCTV8
 http://[2409:8087:5e00:24::11]:6060/200000001898/460000089800010216/
-#EXTINF:-1 group-title="IPV6 短尾",,CCTV9
+#EXTINF:-1 group-title="IPV6 短尾",CCTV9
 http://[2409:8087:5e00:24::10]:6060/200000001898/460000089800010052/
-#EXTINF:-1 group-title="IPV6 短尾",,CCTV9
+#EXTINF:-1 group-title="IPV6 短尾",CCTV9
 http://[2409:8087:5e00:24::10]:6060/200000001898/460000089800010217/
-#EXTINF:-1 group-title="IPV6 短尾",,CCTV9
+#EXTINF:-1 group-title="IPV6 短尾",CCTV9
 http://[2409:8087:5e00:24::11]:6060/200000001898/460000089800010217/
-#EXTINF:-1 group-title="IPV6 短尾",,CCTV9
+#EXTINF:-1 group-title="IPV6 短尾",CCTV9
 http://[2409:8087:5e00:24::11]:6060/200000001898/460000089800010052/
-#EXTINF:-1 group-title="IPV6 短尾",,CCTV10
+#EXTINF:-1 group-title="IPV6 短尾",CCTV10
 http://[2409:8087:5e00:24::11]:6060/200000001898/460000089800010203/
-#EXTINF:-1 group-title="IPV6 短尾",,CCTV12
+#EXTINF:-1 group-title="IPV6 短尾",CCTV12
 http://[2409:8087:5e00:24::10]:6060/200000001898/460000089800010205/
-#EXTINF:-1 group-title="IPV6 短尾",,CCTV12
+#EXTINF:-1 group-title="IPV6 短尾",CCTV12
 http://[2409:8087:5e00:24::11]:6060/200000001898/460000089800010205/
-#EXTINF:-1 group-title="IPV6 短尾",,CCTV14
+#EXTINF:-1 group-title="IPV6 短尾",CCTV14
 http://[2409:8087:5e00:24::11]:6060/200000001898/460000089800010207/
-#EXTINF:-1 group-title="IPV6 短尾",,CCTV14
+#EXTINF:-1 group-title="IPV6 短尾",CCTV14
 http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000001000008170/
-#EXTINF:-1 group-title="IPV6 短尾",,CCTV16
+#EXTINF:-1 group-title="IPV6 短尾",CCTV16
 http://[2409:8087:5e00:24::10]:6060/200000001898/460000089800010142/
-#EXTINF:-1 group-title="IPV6 短尾",,CCTV16
+#EXTINF:-1 group-title="IPV6 短尾",CCTV16
 http://[2409:8087:5e00:24::11]:6060/200000001898/460000089800010142/
-#EXTINF:-1 group-title="IPV6 短尾",,CCTV17
+#EXTINF:-1 group-title="IPV6 短尾",CCTV17
 http://[2409:8087:5e00:24::10]:6060/200000001898/460000089800010210/
-#EXTINF:-1 group-title="IPV6 短尾",,CCTV17
+#EXTINF:-1 group-title="IPV6 短尾",CCTV17
 http://[2409:8087:5e00:24::11]:6060/200000001898/460000089800010210/
-#EXTINF:-1 group-title="IPV6 短尾",,东方卫视
+#EXTINF:-1 group-title="IPV6 短尾",东方卫视
 http://[2409:8087:5e00:24::10]:6060/200000001898/460000089800010054/
-#EXTINF:-1 group-title="IPV6 短尾",,东方卫视
+#EXTINF:-1 group-title="IPV6 短尾",东方卫视
 http://[2409:8087:5e00:24::10]:6060/200000001898/460000089800010219/
-#EXTINF:-1 group-title="IPV6 短尾",,辽宁卫视
+#EXTINF:-1 group-title="IPV6 短尾",辽宁卫视
 http://[2409:8087:5e00:24::10]:6060/200000001898/460000089800010061/
-#EXTINF:-1 group-title="IPV6 短尾",,超级综艺
+#EXTINF:-1 group-title="IPV6 短尾",超级综艺
 http://[2409:8087:5e00:24::10]:6060/200000001898/460000089800010062/
-#EXTINF:-1 group-title="IPV6 短尾",,超级电影
+#EXTINF:-1 group-title="IPV6 短尾",超级电影
 http://[2409:8087:5e00:24::10]:6060/200000001898/460000089800010064/
-#EXTINF:-1 group-title="IPV6 短尾",,超级电视剧
+#EXTINF:-1 group-title="IPV6 短尾",超级电视剧
 http://[2409:8087:5e00:24::10]:6060/200000001898/460000089800010065/
-#EXTINF:-1 group-title="IPV6 短尾",,山东卫视
+#EXTINF:-1 group-title="IPV6 短尾",山东卫视
 http://[2409:8087:5e00:24::10]:6060/200000001898/460000089800010066/
-#EXTINF:-1 group-title="IPV6 短尾",,纪实人文
+#EXTINF:-1 group-title="IPV6 短尾",纪实人文
 http://[2409:8087:5e00:24::10]:6060/200000001898/460000089800010067/
-#EXTINF:-1 group-title="IPV6 短尾",,健身运动
+#EXTINF:-1 group-title="IPV6 短尾",健身运动
 http://[2409:8087:5e00:24::10]:6060/200000001898/460000089800010147/
-#EXTINF:-1 group-title="IPV6 短尾",,重庆卫视
+#EXTINF:-1 group-title="IPV6 短尾",重庆卫视
 http://[2409:8087:5e00:24::11]:6060/200000001898/460000089800010053/
-#EXTINF:-1 group-title="IPV6 短尾",,江苏卫视
+#EXTINF:-1 group-title="IPV6 短尾",江苏卫视
 http://[2409:8087:5e00:24::11]:6060/200000001898/460000089800010059/
-#EXTINF:-1 group-title="IPV6 短尾",,辽宁卫视
+#EXTINF:-1 group-title="IPV6 短尾",辽宁卫视
 http://[2409:8087:5e00:24::11]:6060/200000001898/460000089800010061/
-#EXTINF:-1 group-title="IPV6 短尾",,超级综艺
+#EXTINF:-1 group-title="IPV6 短尾",超级综艺
 http://[2409:8087:5e00:24::11]:6060/200000001898/460000089800010062/
-#EXTINF:-1 group-title="IPV6 短尾",,超级电影
+#EXTINF:-1 group-title="IPV6 短尾",超级电影
 http://[2409:8087:5e00:24::11]:6060/200000001898/460000089800010064/
-#EXTINF:-1 group-title="IPV6 短尾",,超级电视剧
+#EXTINF:-1 group-title="IPV6 短尾",超级电视剧
 http://[2409:8087:5e00:24::11]:6060/200000001898/460000089800010065/
-#EXTINF:-1 group-title="IPV6 短尾",,SITV纪实人文
+#EXTINF:-1 group-title="IPV6 短尾",SITV纪实人文
 http://[2409:8087:5e00:24::11]:6060/200000001898/460000089800010067/
-#EXTINF:-1 group-title="IPV6 短尾",,天津卫视
+#EXTINF:-1 group-title="IPV6 短尾",天津卫视
 http://[2409:8087:5e00:24::11]:6060/200000001898/460000089800010069/
-#EXTINF:-1 group-title="IPV6 短尾",,健身运动
+#EXTINF:-1 group-title="IPV6 短尾",健身运动
 http://[2409:8087:5e00:24::11]:6060/200000001898/460000089800010147/
-#EXTINF:-1 group-title="IPV6 短尾",,湖南卫视
+#EXTINF:-1 group-title="IPV6 短尾",湖南卫视
 http://[2409:8087:5e00:24::11]:6060/200000001898/460000089800010224/
-#EXTINF:-1 group-title="IPV6 短尾",,北京纪实科教
+#EXTINF:-1 group-title="IPV6 短尾",北京纪实科教
 http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000001000001910/
-#EXTINF:-1 group-title="IPV6 短尾",,CCTV1
+#EXTINF:-1 group-title="IPV6 短尾",CCTV1
 http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010144/
-#EXTINF:-1 group-title="IPV6 短尾",,CCTV1
+#EXTINF:-1 group-title="IPV6 短尾",CCTV1
 http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000004000002226/
-#EXTINF:-1 group-title="IPV6 短尾",,CCTV2
+#EXTINF:-1 group-title="IPV6 短尾",CCTV2
 http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010211/
-#EXTINF:-1 group-title="IPV6 短尾",,CCTV3
+#EXTINF:-1 group-title="IPV6 短尾",CCTV3
 http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010212/
-#EXTINF:-1 group-title="IPV6 短尾",,CCTV5
+#EXTINF:-1 group-title="IPV6 短尾",CCTV5
 http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010139/
-#EXTINF:-1 group-title="IPV6 短尾",,CCTV5
+#EXTINF:-1 group-title="IPV6 短尾",CCTV5
 http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000005000265005/
-#EXTINF:-1 group-title="IPV6 短尾",,CCTV5+
+#EXTINF:-1 group-title="IPV6 短尾",CCTV5+
 http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010202/
-#EXTINF:-1 group-title="IPV6 短尾",,CCTV6
+#EXTINF:-1 group-title="IPV6 短尾",CCTV6
 http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010214/
-#EXTINF:-1 group-title="IPV6 短尾",,CCTV6
+#EXTINF:-1 group-title="IPV6 短尾",CCTV6
 http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000005000265006/
-#EXTINF:-1 group-title="IPV6 短尾",,CCTV7
+#EXTINF:-1 group-title="IPV6 短尾",CCTV7
 http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010215/
-#EXTINF:-1 group-title="IPV6 短尾",,CCTV7
+#EXTINF:-1 group-title="IPV6 短尾",CCTV7
 http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000005000265007/
-#EXTINF:-1 group-title="IPV6 短尾",,CCTV7
+#EXTINF:-1 group-title="IPV6 短尾",CCTV7
 http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000001000024341/
-#EXTINF:-1 group-title="IPV6 短尾",,CCTV5+
+#EXTINF:-1 group-title="IPV6 短尾",CCTV5+
 http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000001000018504/
-#EXTINF:-1 group-title="IPV6 短尾",,CCTV9
+#EXTINF:-1 group-title="IPV6 短尾",CCTV9
 http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000001000014583/
-#EXTINF:-1 group-title="IPV6 短尾",,CCTV8
+#EXTINF:-1 group-title="IPV6 短尾",CCTV8
 http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010216/
-#EXTINF:-1 group-title="IPV6 短尾",,CCTV9
+#EXTINF:-1 group-title="IPV6 短尾",CCTV9
 http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010052/
-#EXTINF:-1 group-title="IPV6 短尾",,CCTV10
+#EXTINF:-1 group-title="IPV6 短尾",CCTV10
 http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010203/
-#EXTINF:-1 group-title="IPV6 短尾",,CCTV10
+#EXTINF:-1 group-title="IPV6 短尾",CCTV10
 http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000004000012827/
-#EXTINF:-1 group-title="IPV6 短尾",,CCTV10
+#EXTINF:-1 group-title="IPV6 短尾",CCTV10
 http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000001000023734/
-#EXTINF:-1 group-title="IPV6 短尾",,CCTV11
+#EXTINF:-1 group-title="IPV6 短尾",CCTV11
 http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000011000031106/
-#EXTINF:-1 group-title="IPV6 短尾",,CCTV12
+#EXTINF:-1 group-title="IPV6 短尾",CCTV12
 http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010205/
-#EXTINF:-1 group-title="IPV6 短尾",,CCTV12
+#EXTINF:-1 group-title="IPV6 短尾",CCTV12
 http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000011000031107/
-#EXTINF:-1 group-title="IPV6 短尾",,CCTV12
+#EXTINF:-1 group-title="IPV6 短尾",CCTV12
 http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000001000032494/
-#EXTINF:-1 group-title="IPV6 短尾",,CCTV13
+#EXTINF:-1 group-title="IPV6 短尾",CCTV13
 http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000011000031108/
-#EXTINF:-1 group-title="IPV6 短尾",,CCTV14
+#EXTINF:-1 group-title="IPV6 短尾",CCTV14
 http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010207/
-#EXTINF:-1 group-title="IPV6 短尾",,CCTV14
+#EXTINF:-1 group-title="IPV6 短尾",CCTV14
 http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000004000006673/
-#EXTINF:-1 group-title="IPV6 短尾",,CCTV15
+#EXTINF:-1 group-title="IPV6 短尾",CCTV15
 http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000011000031109/
-#EXTINF:-1 group-title="IPV6 短尾",,CCTV16
+#EXTINF:-1 group-title="IPV6 短尾",CCTV16
 http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010142/
-#EXTINF:-1 group-title="IPV6 短尾",,CCTV16
+#EXTINF:-1 group-title="IPV6 短尾",CCTV16
 http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000006000233002/
-#EXTINF:-1 group-title="IPV6 短尾",,CCTV17
+#EXTINF:-1 group-title="IPV6 短尾",CCTV17
 http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010210/
-#EXTINF:-1 group-title="IPV6 短尾",,CCTV17
+#EXTINF:-1 group-title="IPV6 短尾",CCTV17
 http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000006000268004/
-#EXTINF:-1 group-title="IPV6 短尾",,北京卫视
+#EXTINF:-1 group-title="IPV6 短尾",北京卫视
 http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010143/
-#EXTINF:-1 group-title="IPV6 短尾",,超级体育
+#EXTINF:-1 group-title="IPV6 短尾",超级体育
 http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000001000009601/
-#EXTINF:-1 group-title="IPV6 短尾",,广东卫视
+#EXTINF:-1 group-title="IPV6 短尾",广东卫视
 http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000001000014176/
-#EXTINF:-1 group-title="IPV6 短尾",,SITV纪实人文
+#EXTINF:-1 group-title="IPV6 短尾",SITV纪实人文
 http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000001000016545/
-#EXTINF:-1 group-title="IPV6 短尾",,超级电影
+#EXTINF:-1 group-title="IPV6 短尾",超级电影
 http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000003000012426/
-#EXTINF:-1 group-title="IPV6 短尾",,超级综艺
+#EXTINF:-1 group-title="IPV6 短尾",超级综艺
 http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000006000268002/
-#EXTINF:-1 group-title="IPV6 短尾",,SITV纪实人文
+#EXTINF:-1 group-title="IPV6 短尾",SITV纪实人文
 http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000004000010282/
-#EXTINF:-1 group-title="IPV6 短尾",,SITV东方财经
+#EXTINF:-1 group-title="IPV6 短尾",SITV东方财经
 http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000007000010003/
-#EXTINF:-1 group-title="IPV6 短尾",,SITV金色学堂
+#EXTINF:-1 group-title="IPV6 短尾",SITV金色学堂
 http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000010000026105/
-#EXTINF:-1 group-title="IPV6 短尾",,SITV都市剧场
+#EXTINF:-1 group-title="IPV6 短尾",SITV都市剧场
 http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000011000031111/
-#EXTINF:-1 group-title="IPV6 短尾",,SITV乐游
+#EXTINF:-1 group-title="IPV6 短尾",SITV乐游
 http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000011000031112/
-#EXTINF:-1 group-title="IPV6 短尾",,SITV动漫秀场
+#EXTINF:-1 group-title="IPV6 短尾",SITV动漫秀场
 http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000011000031113/
-#EXTINF:-1 group-title="IPV6 短尾",,SITV游戏风云
+#EXTINF:-1 group-title="IPV6 短尾",SITV游戏风云
 http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000011000031114/
-#EXTINF:-1 group-title="IPV6 短尾",,云南卫视
+#EXTINF:-1 group-title="IPV6 短尾",云南卫视
 http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000011000031120/
-#EXTINF:-1 group-title="IPV6 短尾",,SITV哈哈炫动
+#EXTINF:-1 group-title="IPV6 短尾",SITV哈哈炫动
 http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000011000031123/
-#EXTINF:-1 group-title="IPV6 短尾",,北京纪实科教
+#EXTINF:-1 group-title="IPV6 短尾",北京纪实科教
 http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000011000031204/
-#EXTINF:-1 group-title="IPV6 短尾",,湖南快乐垂钓
+#EXTINF:-1 group-title="IPV6 短尾",湖南快乐垂钓
 http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000011000031206/
-#EXTINF:-1 group-title="IPV6 短尾",,湖南茶频道
+#EXTINF:-1 group-title="IPV6 短尾",湖南茶频道
 http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000011000031209/
-#EXTINF:-1 group-title="IPV6 短尾",,东方卫视
+#EXTINF:-1 group-title="IPV6 短尾",东方卫视
 http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010054/
-#EXTINF:-1 group-title="IPV6 短尾",,广东卫视
+#EXTINF:-1 group-title="IPV6 短尾",广东卫视
 http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010055/
-#EXTINF:-1 group-title="IPV6 短尾",,黑龙江卫视
+#EXTINF:-1 group-title="IPV6 短尾",黑龙江卫视
 http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010056/
-#EXTINF:-1 group-title="IPV6 短尾",,湖南卫视
+#EXTINF:-1 group-title="IPV6 短尾",湖南卫视
 http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010058/
-#EXTINF:-1 group-title="IPV6 短尾",,超级综艺
+#EXTINF:-1 group-title="IPV6 短尾",超级综艺
 http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010062/
-#EXTINF:-1 group-title="IPV6 短尾",,超级体育
+#EXTINF:-1 group-title="IPV6 短尾",超级体育
 http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010063/
-#EXTINF:-1 group-title="IPV6 短尾",,超级电影
+#EXTINF:-1 group-title="IPV6 短尾",超级电影
 http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010064/
-#EXTINF:-1 group-title="IPV6 短尾",,超级电视剧
+#EXTINF:-1 group-title="IPV6 短尾",超级电视剧
 http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010065/
-#EXTINF:-1 group-title="IPV6 短尾",,纪实人文
+#EXTINF:-1 group-title="IPV6 短尾",纪实人文
 http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010067/
-#EXTINF:-1 group-title="IPV6 短尾",,深圳卫视
+#EXTINF:-1 group-title="IPV6 短尾",深圳卫视
 http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010068/
-#EXTINF:-1 group-title="IPV6 短尾",,健身运动
+#EXTINF:-1 group-title="IPV6 短尾",健身运动
 http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010147/
-#EXTINF:-1 group-title="IPV6 短尾",,广东卫视
+#EXTINF:-1 group-title="IPV6 短尾",广东卫视
 http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010221/
-#EXTINF:-1 group-title="IPV6 短尾",,湖南卫视
+#EXTINF:-1 group-title="IPV6 短尾",湖南卫视
 http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010224/
 
 
@@ -424,47 +420,6 @@ http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010224/
 
 
 
-
-
-
-#EXTINF:-1 group-title="CCTV" tvg-id="CCTV1" tvg-logo="https://tchiphuong.github.io/iptv/images/zh-cctv-1.png",CCTV-1
-https://api.olelive.com/dis/live/CCTV1HD/hls.m3u8
-#EXTINF:-1 tvg-id="CCTV2" tvg-logo="https://tchiphuong.github.io/iptv/images/zh-cctv-2.png",CCTV-2
-https://api.olelive.com/dis/live/CCTV2HD/hls.m3u8
-#EXTINF:-1 tvg-id="CCTV3" tvg-logo="https://tchiphuong.github.io/iptv/images/zh-cctv-3.png",CCTV-3
-https://api.olelive.com/dis/live/CCTV3HD/hls.m3u8
-#EXTINF:-1 tvg-id="CCTV4" tvg-logo="https://tchiphuong.github.io/iptv/images/zh-cctv-4.png",CCTV-4
-https://api.olelive.com/dis/live/CCTV4HD/hls.m3u8
-#EXTINF:-1 tvg-id="CCTV5" tvg-logo="https://tchiphuong.github.io/iptv/images/zh-cctv-5.png",CCTV-5
-https://api.olelive.com/dis/live/CCTV5HD/hls.m3u8
-#EXTINF:-1 tvg-id="CCTV5+" tvg-logo="https://tchiphuong.github.io/iptv/images/zh-cctv-5-plus.png",CCTV-5+
-https://api.olelive.com/dis/live/CCTV5PHD/hls.m3u8
-#EXTINF:-1 tvg-id="CCTV6" tvg-logo="https://tchiphuong.github.io/iptv/images/zh-cctv-6.png",CCTV-6
-https://api.olelive.com/dis/live/CCTV6HD/hls.m3u8
-#EXTINF:-1 tvg-id="CCTV6" tvg-logo="https://tchiphuong.github.io/iptv/images/zh-cctv-6.png",CCTV-6A
-https://media.hndyjyfw.gov.cn/live/jz-cctv-6/live.m3u8
-#EXTINF:-1 tvg-id="CCTV7" tvg-logo="https://tchiphuong.github.io/iptv/images/zh-cctv-7.png",CCTV-7
-https://api.olelive.com/dis/live/CCTV7HD/hls.m3u8
-#EXTINF:-1 tvg-id="CCTV8" tvg-logo="https://tchiphuong.github.io/iptv/images/zh-cctv-8.png",CCTV-8
-https://api.olelive.com/dis/live/CCTV8HD/hls.m3u8
-#EXTINF:-1 tvg-id="CCTV9" tvg-logo="https://tchiphuong.github.io/iptv/images/zh-cctv-9.png",CCTV-9
-https://api.olelive.com/dis/live/CCTV9HD/hls.m3u8
-#EXTINF:-1 tvg-id="CCTV10" tvg-logo="https://tchiphuong.github.io/iptv/images/zh-cctv-10.png",CCTV-10
-https://api.olelive.com/dis/live/CCTV10HD/hls.m3u8
-#EXTINF:-1 tvg-id="CCTV11" tvg-logo="https://tchiphuong.github.io/iptv/images/zh-cctv-11.png",CCTV-11
-https://api.olelive.com/dis/live/CCTV11HD/hls.m3u8
-#EXTINF:-1 tvg-id="CCTV12" tvg-logo="https://tchiphuong.github.io/iptv/images/zh-cctv-12.png",CCTV-12
-https://api.olelive.com/dis/live/CCTV12HD/hls.m3u8
-#EXTINF:-1 tvg-id="CCTV13" tvg-logo="https://tchiphuong.github.io/iptv/images/zh-cctv-13.png",CCTV-13
-https://api.olelive.com/dis/live/CCTV13HD/hls.m3u8
-#EXTINF:-1 tvg-id="CCTV14" tvg-logo="https://tchiphuong.github.io/iptv/images/zh-cctv-14.png",CCTV-14
-https://api.olelive.com/dis/live/CCTV14HD/hls.m3u8
-#EXTINF:-1 tvg-id="CCTV15" tvg-logo="https://tchiphuong.github.io/iptv/images/zh-cctv-15.png",CCTV-15
-https://api.olelive.com/dis/live/CCTV15HD/hls.m3u8
-#EXTINF:-1 tvg-id="CCTV16" tvg-logo="https://tchiphuong.github.io/iptv/images/zh-cctv-16.png",CCTV-16
-https://api.olelive.com/dis/live/CCTV16HD/hls.m3u8
-#EXTINF:-1 tvg-id="CCTV17" tvg-logo="https://tchiphuong.github.io/iptv/images/zh-cctv-17.png",CCTV-17
-https://api.olelive.com/dis/live/CCTV17HD/hls.m3u8
 
 
 
