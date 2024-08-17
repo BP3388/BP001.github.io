@@ -46,6 +46,10 @@ http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/5000000008000023254/index.m
 http://bjuni.iptv.im2k.com:5018/rtp/239.3.1.236:2000
 #EXTINF:-1 group-title="CN 4K UHD ",CCTV4K
 http://bjuni.iptv.im2k.com:5018/rtp/239.3.1.245:2000
+#EXTINF:-1 group-title="CN 4K UHD ",BTV冬奥纪实4K
+http://bjuni.iptv.im2k.com:5018/rtp/239.3.1.121:8000
+
+
 
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="[高清]央视",CCTV-1综合
 http://bjuni.iptv.im2k.com:5018/rtp/239.3.1.129:8008
