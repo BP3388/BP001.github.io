@@ -48,6 +48,8 @@ http://bjuni.iptv.im2k.com:5018/rtp/239.3.1.236:2000
 http://bjuni.iptv.im2k.com:5018/rtp/239.3.1.245:2000
 #EXTINF:-1 group-title="CN 4K UHD ",BTV冬奥纪实4K
 http://bjuni.iptv.im2k.com:5018/rtp/239.3.1.121:8000
+#EXTINF:-1 group-title="CN 4K UHD ",BTV冬奥纪实4KHDR
+http://bjuni.iptv.im2k.com:5018/rtp/239.3.1.120:8000
 
 
 
