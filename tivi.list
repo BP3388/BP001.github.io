@@ -45,11 +45,11 @@ http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/5000000008000023254/index.m
 #EXTINF:-1 group-title="CN 4K UHD ",
 
 #EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV2.png" group-title="[高清]央视",CCTV-2财经[高清]
-rtp://239.3.1.60:8084
+http://bjuni.iptv.im2k.com:5018/rtp/239.3.1.60:8084
 #EXTINF:-1 tvg-id="3" tvg-name="CCTV3" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV3.png" group-title="[高清]央视",CCTV-3综艺[高清]
-rtp://239.3.1.172:8001
+http://bjuni.iptv.im2k.com:5018/rtp/239.3.1.172:8001
 #EXTINF:-1 tvg-id="4" tvg-name="CCTV4" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4.png" group-title="[高清]央视",CCTV-4中文国际[高清]
-rtp://239.3.1.105:8092
+http://bjuni.iptv.im2k.com:5018/rtp/239.3.1.105:8092
 #EXTINF:-1 tvg-id="22" tvg-name="CCTV4EUO" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4EUO.png" group-title="[高清]央视",CCTV-4 中文国际 欧洲[高清]
 rtp://239.3.1.213:4220
 #EXTINF:-1 tvg-id="23" tvg-name="CCTV4AME" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4AME.png" group-title="[高清]央视",CCTV-4 中文国际 美洲[高清]
