@@ -201,7 +201,7 @@ http://bjuni.iptv.im2k.com:5018/rtp/239.3.1.178:8001
 http://bjuni.iptv.im2k.com:5018/rtp/239.3.1.100:8001
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="[高清]北京IPTV",北京IPTV淘剧场
 http://bjuni.iptv.im2k.com:5018/rtp/239.3.1.95:8001
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="[高清]北京IPTV;少儿",北京IPTV淘Baby
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="[高清]北京IPTV",北京IPTV淘Baby
 http://bjuni.iptv.im2k.com:5018/rtp/239.3.1.238:8001
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="[高清]北京IPTV",北京IPTV淘电影
 http://bjuni.iptv.im2k.com:5018/rtp/239.3.1.250:8001
