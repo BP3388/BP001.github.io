@@ -43,7 +43,10 @@ http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225893/index.m3u8
 #EXTINF:-1 tvg-id="CCTV17" tvg-name="CCTV17" tvg-logo="https://wtv.tools.yigechengzi.com/api/v1/tvg/logo/CCTV17" group-title="央视V6",CCTV-17
 http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225765/index.m3u8
 
-
+#EXTINF:-1 group-title="CN 4K UHD ",CCTV-1综合
+http://bjuni.iptv.im2k.com:5018/rtp/225.1.8.101:8080
+#EXTINF:-1 group-title="CN 4K UHD ",CCTV-1综合
+http://bjuni.iptv.im2k.com:5018/rtp/225.1.8.1:8008
 #EXTINF:-1 group-title="CN 4K UHD ",CCTV16 
 http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/5000000008000023254/index.m3u8?livemode=1&stbId=10&channel-id=bestzb&Contentid=5000000008000023254
 #EXTINF:-1 group-title="CN 4K UHD ",爱上4K
