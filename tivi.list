@@ -1,9 +1,57 @@
 
 #EXTM3U x-tvg-url="https://live.fanmingming.com/e.xml"
 
-#EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="TEST",CCTV-1综合
-http://60.223.72.135:8088/rtp/239.254.96.96:9052
+#EXTINF:-1 tvg-id="CHC家庭影院" tvg-name="CHC家庭影院" group-title="天津联通IPTV",CHC家庭影院HD
+http://nas.hssvm.com::5002/udp/225.1.1.213:5002
+#EXTINF:-1 tvg-id="CHC高清电影" tvg-name="CHC高清电影" group-title="天津联通IPTV",CHC高清电影HD
+http://nas.hssvm.com::5002/udp/225.1.1.214:5002
+#EXTINF:-1 tvg-id="CHC动作电影" tvg-name="CHC动作电影" group-title="天津联通IPTV",CHC动作电影HD
+http://nas.hssvm.com::5002/udp/225.1.1.215:5002
+#EXTINF:-1 group-title="天津联通IPTV",经典老片场HD
+http://nas.hssvm.com::5002/udp/225.1.2.123:5002
+#EXTINF:-1 group-title="天津联通IPTV",4K
+http://nas.hssvm.com::5002/udp/225.1.2.190:5002
+#EXTINF:-1 tvg-id="SITV欢笑剧场" tvg-name="SITV欢笑剧场" group-title="天津联通IPTV",欢笑剧场4K
+http://nas.hssvm.com::5002/udp/225.1.1.152:5002
 
+
+
+#EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" group-title="天津联通IPTV",CCTV-1综合HD
+http://nas.hssvm.com::5002/udp/225.1.1.120:5002
+#EXTINF:-1 tvg-id="CCTV2" tvg-name="CCTV2" group-title="天津联通IPTV",CCTV-2财经HD
+http://nas.hssvm.com::5002/udp/225.1.1.133:5002
+#EXTINF:-1 tvg-id="CCTV3" tvg-name="CCTV3" group-title="天津联通IPTV",CCTV-3综艺HD
+http://nas.hssvm.com::5002/udp/225.1.1.158:5002
+#EXTINF:-1 tvg-id="CCTV4" tvg-name="CCTV4" group-title="天津联通IPTV",CCTV-4中文国际HD
+http://nas.hssvm.com::5002/udp/225.1.1.150:5002
+#EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV5" group-title="天津联通IPTV",CCTV-5体育HD
+http://nas.hssvm.com::5002/udp/225.1.1.160:5002
+#EXTINF:-1 group-title="天津联通IPTV",CCTV-5+体育赛事HD
+http://nas.hssvm.com::5002/udp/225.1.1.121:5002
+#EXTINF:-1 tvg-id="CCTV6" tvg-name="CCTV6" group-title="天津联通IPTV",CCTV-6电影HD
+http://nas.hssvm.com::5002/udp/225.1.1.195:5002
+#EXTINF:-1 tvg-id="CCTV7" tvg-name="CCTV7" group-title="天津联通IPTV",CCTV-7军事农业HD
+http://nas.hssvm.com::5002/udp/225.1.1.138:5002
+#EXTINF:-1 tvg-id="CCTV8" tvg-name="CCTV8" group-title="天津联通IPTV",CCTV-8电视剧HD
+http://nas.hssvm.com::5002/udp/225.1.1.196:5002
+#EXTINF:-1 tvg-id="CCTV9" tvg-name="CCTV9" group-title="天津联通IPTV",CCTV-9纪录HD
+http://nas.hssvm.com::5002/udp/225.1.1.119:5002
+#EXTINF:-1 tvg-id="CCTV10" tvg-name="CCTV10" group-title="天津联通IPTV",CCTV-10科教HD
+http://nas.hssvm.com::5002/udp/225.1.1.140:5002
+#EXTINF:-1 tvg-id="CCTV11" tvg-name="CCTV11" group-title="天津联通IPTV",CCTV-11戏曲HD
+http://nas.hssvm.com::5002/udp/225.1.2.192:5002
+#EXTINF:-1 tvg-id="CCTV12" tvg-name="CCTV12" group-title="天津联通IPTV",CCTV-12社会与法HD
+http://nas.hssvm.com::5002/udp/225.1.1.142:5002
+#EXTINF:-1 tvg-id="CCTV13" tvg-name="CCTV13" group-title="天津联通IPTV",CCTV-13新闻HD
+http://nas.hssvm.com::5002/udp/225.1.2.193:5002
+#EXTINF:-1 tvg-id="CCTV14" tvg-name="CCTV14" group-title="天津联通IPTV",CCTV-14少儿HD
+http://nas.hssvm.com::5002/udp/225.1.1.144:5002
+#EXTINF:-1 tvg-id="CCTV15" tvg-name="CCTV15" group-title="天津联通IPTV",CCTV-15音乐HD
+http://nas.hssvm.com::5002/udp/225.1.2.194:5002
+#EXTINF:-1 tvg-id="CCTV16" tvg-name="CCTV16" group-title="天津联通IPTV",CCTV-16奥林匹克HD
+http://nas.hssvm.com::5002/udp/225.1.2.237:5002
+#EXTINF:-1 tvg-id="CCTV17" tvg-name="CCTV17" group-title="天津联通IPTV",CCTV-17农业农村HD
+http://nas.hssvm.com::5002/udp/225.1.2.52:5002
 #EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://wtv.tools.yigechengzi.com/api/v1/tvg/logo/CCTV1" group-title="央视V6",CCTV-1
 http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226559/index.m3u8
 #EXTINF:-1 tvg-id="CCTV2" tvg-name="CCTV2" tvg-logo="https://wtv.tools.yigechengzi.com/api/v1/tvg/logo/CCTV2" group-title="央视V6",CCTV-2
