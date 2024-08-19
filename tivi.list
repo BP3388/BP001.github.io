@@ -2,17 +2,17 @@
 #EXTM3U x-tvg-url="https://live.fanmingming.com/e.xml"
 
 #EXTINF:-1 tvg-id="CHC家庭影院" tvg-name="CHC家庭影院" group-title="天津联通IPTV",CHC家庭影院HD
-http://nas.hssvm.com::8888/udp/225.1.1.213:5002
+http://bjuni.iptv.im2k.com:5018/udp/225.1.1.213:5002
 #EXTINF:-1 tvg-id="CHC高清电影" tvg-name="CHC高清电影" group-title="天津联通IPTV",CHC高清电影HD
-http://nas.hssvm.com::8888/udp/225.1.1.214:5002
+http://bjuni.iptv.im2k.com:5018/udp/225.1.1.214:5002
 #EXTINF:-1 tvg-id="CHC动作电影" tvg-name="CHC动作电影" group-title="天津联通IPTV",CHC动作电影HD
-http://nas.hssvm.com::8888/udp/225.1.1.215:5002
+http://bjuni.iptv.im2k.com:5018/udp/225.1.1.215:5002
 #EXTINF:-1 group-title="天津联通IPTV",经典老片场HD
-http://nas.hssvm.com::8888/udp/225.1.2.123:5002
+http://bjuni.iptv.im2k.com:5018/udp/225.1.2.123:5002
 #EXTINF:-1 group-title="天津联通IPTV",4K
-http://nas.hssvm.com::8888/udp/225.1.2.190:5002
+http://bjuni.iptv.im2k.com:5018/udp/225.1.2.190:5002
 #EXTINF:-1 tvg-id="SITV欢笑剧场" tvg-name="SITV欢笑剧场" group-title="天津联通IPTV",欢笑剧场4K
-http://nas.hssvm.com::8888/udp/225.1.1.152:5002
+http://bjuni.iptv.im2k.com:5018/udp/225.1.1.152:5002
 
 
 
