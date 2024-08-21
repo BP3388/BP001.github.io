@@ -2,11 +2,11 @@
 #EXTM3U x-tvg-url="https://live.fanmingming.com/e.xml"
 
 #EXTINF:-1 tvg-id="CHC家庭影院" tvg-name="CHC家庭影院" group-title="天津联通IPTV",CHC家庭影院HD
-http://nas.hssvm.com:8888/udp/225.1.1.213:5002
+http://nas.hssvm.com:8888/rtp/225.1.1.213:5002
 #EXTINF:-1 tvg-id="CHC高清电影" tvg-name="CHC高清电影" group-title="天津联通IPTV",CHC高清电影HD
-http://nas.hssvm.com:8888/udp/225.1.1.214:5002
+http://nas.hssvm.com:8888/rtp/225.1.1.214:5002
 #EXTINF:-1 tvg-id="CHC动作电影" tvg-name="CHC动作电影" group-title="天津联通IPTV",CHC动作电影HD
-http://nas.hssvm.com:8888/udp/225.1.1.215:5002
+http://nas.hssvm.com:8888/rtp/225.1.1.215:5002
 
 
 
