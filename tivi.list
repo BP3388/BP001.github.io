@@ -8,22 +8,19 @@ http://nas.hssvm.com:8888/rtp/225.1.1.214:5002
 #EXTINF:-1 tvg-id="CHC动作电影" tvg-name="CHC动作电影" group-title="天津联通IPTV",CHC动作电影HD
 http://nas.hssvm.com:8888/rtp/225.1.1.215:5002
 
+#EXTINF:-1 group-title="BJ RTP" tvg-name="CCTV1",CCTV-1 综合
+http://v4.ry.soff.cn:4022//rtp/239.3.1.129:8008
+#EXTINF:-1 group-title="BJ RTP" tvg-name="CCTV2",CCTV-2 财经
+http://v4.ry.soff.cn:4022//rtp/239.3.1.60:8084
+#EXTINF:-1 group-title="BJ RTP" tvg-name="CCTV3",CCTV-3 综艺
+http://v4.ry.soff.cn:4022//rtp/239.3.1.172:8001
+#EXTINF:-1 group-title="BJ RTP" tvg-name="CCTV4",CCTV-4 中文国际
+http://v4.ry.soff.cn:4022//rtp/239.3.1.105:8092
+#EXTINF:-1 group-title="BJ RTP" tvg-name="CCTV5",CCTV-5 体育
+http://v4.ry.soff.cn:4022/rtp/239.3.1.173:8001
+#EXTINF:-1 group-title="BJ RTP" tvg-name="CCTV5+",CCTV-5+ 体育赛事
+http://v4.ry.soff.cn:4022/rtp/239.3.1.130:8004
 
-
-#EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" group-title="天津联通IPTV",CCTV-1综合HD
-http://nas.hssvm.com::8888/udp/225.1.1.120:5002
-#EXTINF:-1 tvg-id="CCTV2" tvg-name="CCTV2" group-title="天津联通IPTV",CCTV-2财经HD
-http://nas.hssvm.com::8888/udp/225.1.1.133:5002
-#EXTINF:-1 tvg-id="CCTV3" tvg-name="CCTV3" group-title="天津联通IPTV",CCTV-3综艺HD
-http://nas.hssvm.com::8888/udp/225.1.1.158:5002
-#EXTINF:-1 tvg-id="CCTV4" tvg-name="CCTV4" group-title="天津联通IPTV",CCTV-4中文国际HD
-http://nas.hssvm.com::8888/udp/225.1.1.150:5002
-#EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV5" group-title="天津联通IPTV",CCTV-5体育HD
-http://nas.hssvm.com::8888/udp/225.1.1.160:5002
-#EXTINF:-1 group-title="天津联通IPTV",CCTV-5+体育赛事HD
-http://nas.hssvm.com::8888/udp/225.1.1.121:5002
-#EXTINF:-1 tvg-id="CCTV6" tvg-name="CCTV6" group-title="天津联通IPTV",CCTV-6电影HD
-http://nas.hssvm.com::8888/udp/225.1.1.195:5002
 
 
 #EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://wtv.tools.yigechengzi.com/api/v1/tvg/logo/CCTV1" group-title="央视V6",CCTV-1
