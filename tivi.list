@@ -1,25 +1,6 @@
 
 #EXTM3U x-tvg-url="https://live.fanmingming.com/e.xml"
 
-#EXTINF:-1 tvg-id="CHC家庭影院" tvg-name="CHC家庭影院" group-title="天津联通IPTV",CHC家庭影院HD
-http://nas.hssvm.com:8888/rtp/225.1.1.213:5002
-#EXTINF:-1 tvg-id="CHC高清电影" tvg-name="CHC高清电影" group-title="天津联通IPTV",CHC高清电影HD
-http://nas.hssvm.com:8888/rtp/225.1.1.214:5002
-#EXTINF:-1 tvg-id="CHC动作电影" tvg-name="CHC动作电影" group-title="天津联通IPTV",CHC动作电影HD
-http://nas.hssvm.com:8888/rtp/225.1.1.215:5002
-
-#EXTINF:-1 group-title="BJ RTP" tvg-name="CCTV1",CCTV-1 综合
-http://v4.ry.soff.cn:4022//rtp/239.3.1.129:8008
-#EXTINF:-1 group-title="BJ RTP" tvg-name="CCTV2",CCTV-2 财经
-http://v4.ry.soff.cn:4022//rtp/239.3.1.60:8084
-#EXTINF:-1 group-title="BJ RTP" tvg-name="CCTV3",CCTV-3 综艺
-http://v4.ry.soff.cn:4022//rtp/239.3.1.172:8001
-#EXTINF:-1 group-title="BJ RTP" tvg-name="CCTV4",CCTV-4 中文国际
-http://v4.ry.soff.cn:4022//rtp/239.3.1.105:8092
-#EXTINF:-1 group-title="BJ RTP" tvg-name="CCTV5",CCTV-5 体育
-http://v4.ry.soff.cn:4022/rtp/239.3.1.173:8001
-#EXTINF:-1 group-title="BJ RTP" tvg-name="CCTV5+",CCTV-5+ 体育赛事
-http://v4.ry.soff.cn:4022/rtp/239.3.1.130:8004
 
 
 
@@ -679,12 +660,11 @@ http://[2409:8087:5e08:24::12]:6610/000000001000/2000000004000000008/index.m3u8?
 
 
 #EXTINF:-1 tvg-name="CHC家庭电影" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC2.jpg" group-title="CHC",CHC家庭影院
-http://223.109.210.41/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221226315/index.m3u8
+http://222.141.133.239:8888/rtp/225.1.4.209:1262?$河南联通
 #EXTINF:-1 tvg-name="CHC高清电影" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC3.jpg" group-title="CHC",CHC高清电影
-http://39.134.18.196/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226463/index.m3u8
+http://222.141.133.239:8888/rtp/225.1.4.207:1260?$河南联通
 #EXTINF:-1 tvg-name="CHC动作电影" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC1.jpg" group-title="CHC",CHC动作电影
-http://39.134.18.196/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226465/index.m3u8
-
+http://222.141.133.239:8888/rtp/225.1.4.208:1261?$河南联通
 
 #EXTINF:-1 tvg-id="" tvg-name=""group-title="新闻台",CNA 
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
