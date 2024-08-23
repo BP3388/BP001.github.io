@@ -1,5 +1,118 @@
 
 #EXTM3U x-tvg-url="https://live.fanmingming.com/e.xml"
+#EXTINF:-1 tvg-id="CHC动作电影" tvg-name="CHC动作电影" tvg-logo="https://live.fanmingming.com/tv/CHC动作电影.png" group-title="有线电视源",CHC动作电影
+http://cg0.hunancatv.cn:9090/live/CHCDZDY_8000.m3u8?deviceid=866265039837531&sid=Yp6brv0MWYukAl4oJr9yrw%3D%3D&nonce=Ri1TgJg9dlAK&acl=0111&hlsSessionID=11082234455604316076&srchost=172.16.22.158:8060&gid=ZF3q5L%2FmYWch1qWqTIPAjw%3D%3D
+#EXTINF:-1 tvg-id="CHC家庭影院" tvg-name="CHC家庭影院" tvg-logo="https://live.fanmingming.com/tv/CHC家庭影院.png" group-title="有线电视源",CHC家庭影院
+http://cg11.hunancatv.cn:9090/live/CHCJTYY_8000.m3u8?deviceid=866265039837531&sid=Yp6brv0MWYukAl4oJr9yrw%3D%3D&nonce=Ri1TgJg9dlAK&acl=0111&hlsSessionID=11082234455604316833&srchost=172.16.22.158:8060&gid=c%2BNqgq8pR1ZQ7ZzcmkS8%2BQ%3D%3D
+#EXTINF:-1 tvg-id="CHC影迷电影" tvg-name="CHC影迷电影" tvg-logo="https://live.fanmingming.com/tv/CHC影迷电影.png" group-title="有线电视源",CHC影迷电影
+http://cg14.hunancatv.cn:9090/live/CHCGQ_8000.m3u8?deviceid=866265039837531&sid=Yp6brv0MWYukAl4oJr9yrw%3D%3D&nonce=Ri1TgJg9dlAK&acl=0111&hlsSessionID=11082234455604315487&srchost=172.16.22.158:8060&gid=QTVto%2BZu6pkkcNYy4OxcMg%3D%3D
+EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1综合(高清)" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png" group-title="有线电视源",CCTV1综合(高清)
+http://home.itvro.com:381/stream/channelid/843613741?profile=pass
+#EXTINF:-1 tvg-id="CCTV2" tvg-name="CCTV2财经(高清)" tvg-logo="https://live.fanmingming.com/tv/CCTV2.png" group-title="有线电视源",CCTV2财经(高清)
+http://home.itvro.com:381/stream/channelid/1182103287?profile=pass
+#EXTINF:-1 tvg-id="CCTV3" tvg-name="CCTV3综艺(高清)" tvg-logo="https://live.fanmingming.com/tv/CCTV3.png" group-title="有线电视源",CCTV3综艺(高清)
+http://home.itvro.com:381/stream/channelid/1477530200?profile=pass
+#EXTINF:-1 tvg-id="CCTV4" tvg-name="CCTV4中文国际(高清)" tvg-logo="https://live.fanmingming.com/tv/CCTV4.png" group-title="有线电视源",CCTV4中文国际(高清)
+http://home.itvro.com:381/stream/channelid/1855232810?profile=pass
+#EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV5体育(高清)" tvg-logo="https://live.fanmingming.com/tv/CCTV5.png" group-title="有线电视源",CCTV5体育(高清)
+http://home.itvro.com:381/stream/channelid/1740429554?profile=pass
+#EXTINF:-1 tvg-id="CCTV5+" tvg-name="CCTV5+体育赛事(高清)" tvg-logo="https://live.fanmingming.com/tv/CCTV5+.png" group-title="有线电视源",CCTV5+体育赛事(高清)
+http://home.itvro.com:381/stream/channelid/279194294?profile=pass
+#EXTINF:-1 tvg-id="CCTV6" tvg-name="CCTV6电影(高清)" tvg-logo="https://live.fanmingming.com/tv/CCTV6.png" group-title="有线电视源",CCTV6电影(高清)
+http://home.itvro.com:381/stream/channelid/656309112?profile=pass
+#EXTINF:-1 tvg-id="CCTV7" tvg-name="CCTV7国防军事(高清)" tvg-logo="https://live.fanmingming.com/tv/CCTV7.png" group-title="有线电视源",CCTV7国防军事(高清)
+http://home.itvro.com:381/stream/channelid/1960095850?profile=pass
+#EXTINF:-1 tvg-id="CCTV8" tvg-name="CCTV8电视剧(高清)" tvg-logo="https://live.fanmingming.com/tv/CCTV8.png" group-title="有线电视源",CCTV8电视剧(高清)
+http://home.itvro.com:381/stream/channelid/1911782449?profile=pass
+#EXTINF:-1 tvg-id="CCTV9" tvg-name="CCTV9纪录(高清)" tvg-logo="https://live.fanmingming.com/tv/CCTV9.png" group-title="有线电视源",CCTV9纪录(高清)
+http://home.itvro.com:381/stream/channelid/127819330?profile=pass
+#EXTINF:-1 tvg-id="CCTV10" tvg-name="CCTV10科教(高清)" tvg-logo="https://live.fanmingming.com/tv/CCTV10.png" group-title="有线电视源",CCTV10科教(高清)
+http://home.itvro.com:381/stream/channelid/465750648?profile=pass
+#EXTINF:-1 tvg-id="CCTV11" tvg-name="CCTV11戏曲(高清)" tvg-logo="https://live.fanmingming.com/tv/CCTV11.png" group-title="有线电视源",CCTV11戏曲(高清)
+http://home.itvro.com:381/stream/channelid/1233160126?profile=pass
+#EXTINF:-1 tvg-id="CCTV12" tvg-name="CCTV12社会与法(高清)" tvg-logo="https://live.fanmingming.com/tv/CCTV12.png" group-title="有线电视源",CCTV12社会与法(高清)
+http://home.itvro.com:381/stream/channelid/406900655?profile=pass
+#EXTINF:-1 tvg-id="CCTV13" tvg-name="CCTV13新闻(高清)" tvg-logo="https://live.fanmingming.com/tv/CCTV13.png" group-title="有线电视源",CCTV13新闻(高清)
+http://home.itvro.com:381/stream/channelid/1374768680?profile=pass
+#EXTINF:-1 tvg-id="CCTV14" tvg-name="CCTV14少儿(高清)" tvg-logo="https://live.fanmingming.com/tv/CCTV14.png" group-title="有线电视源",CCTV14少儿(高清)
+http://home.itvro.com:381/stream/channelid/1372321779?profile=pass
+#EXTINF:-1 tvg-id="CCTV15" tvg-name="CCTV15音乐(高清)" tvg-logo="https://live.fanmingming.com/tv/CCTV15.png" group-title="有线电视源",CCTV15音乐(高清)
+http://home.itvro.com:381/stream/channelid/276170757?profile=pass
+#EXTINF:-1 tvg-id="CCTV16" tvg-name="CCTV16奥林匹克(高清)" tvg-logo="https://live.fanmingming.com/tv/CCTV16.png" group-title="有线电视源",CCTV16奥林匹克(高清)
+http://home.itvro.com:381/stream/channelid/1081163769?profile=pass
+#EXTINF:-1 tvg-id="CCTV16" tvg-name="CCTV16奥林匹克4K" tvg-logo="https://live.fanmingming.com/tv/CCTV16.png" group-title="有线电视源",CCTV164K
+http://home.itvro.com:381/stream/channelid/1173832388?profile=pass
+#EXTINF:-1 tvg-id="CCTV17" tvg-name="CCTV17农业农村(高清)" tvg-logo="https://live.fanmingming.com/tv/CCTV17.png" group-title="有线电视源",CCTV17农业农村(高清)
+http://home.itvro.com:381/stream/channelid/630995195?profile=pass
+#EXTINF:-1 tvg-id="CHC高清电影" tvg-name="CHC影迷电影" tvg-logo="https://live.fanmingming.com/tv/CHC影迷电影.png" group-title="有线电视源",CHC影迷电影
+http://home.itvro.com:381/stream/channelid/429213832?profile=pass
+#EXTINF:-1 tvg-id="CHC动作电影" tvg-name="CHC动作电影" tvg-logo="https://live.fanmingming.com/tv/CHC动作电影.png" group-title="有线电视源",CHC动作电影
+http://home.itvro.com:381/stream/channelid/1521679998?profile=pass
+#EXTINF:-1 tvg-id="重温经典" tvg-name="重温经典HD" tvg-logo="https://live.fanmingming.com/tv/重温经典HD.png" group-title="有线电视源",重温经典HD
+http://home.itvro.com:381/stream/channelid/1963731893?profile=pass
+#EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png" group-title="有线电视源",CCTV1
+http://dsm.ikun.hn.cn:9981/stream/channelid/329310543?profile=pass
+#EXTINF:-1 tvg-id="CCTV2" tvg-name="CCTV2" tvg-logo="https://live.fanmingming.com/tv/CCTV2.png" group-title="有线电视源",CCTV2
+http://dsm.ikun.hn.cn:9981/stream/channelid/1274375605?profile=pass
+#EXTINF:-1 tvg-id="CCTV3" tvg-name="CCTV3" tvg-logo="https://live.fanmingming.com/tv/CCTV3.png" group-title="有线电视源",CCTV3
+http://dsm.ikun.hn.cn:9981/stream/channelid/578949219?profile=pass
+#EXTINF:-1 tvg-id="CCTV4" tvg-name="CCTV4" tvg-logo="https://live.fanmingming.com/tv/CCTV4.png" group-title="有线电视源",CCTV4
+http://dsm.ikun.hn.cn:9981/stream/channelid/1784864016?profile=pass
+#EXTINF:-1 tvg-id="CCTV4欧洲" tvg-name="CCTV4欧洲" tvg-logo="https://live.fanmingming.com/tv/CCTV4欧洲.png" group-title="有线电视源",CCTV4欧洲
+http://dsm.ikun.hn.cn:9981/stream/channelid/1514304712?profile=pass
+#EXTINF:-1 tvg-id="CCTV4美洲" tvg-name="CCTV4美洲" tvg-logo="https://live.fanmingming.com/tv/CCTV4美洲.png" group-title="有线电视源",CCTV4美洲
+http://dsm.ikun.hn.cn:9981/stream/channelid/1404941951?profile=pass
+#EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="https://live.fanmingming.com/tv/CCTV5.png" group-title="有线电视源",CCTV5
+http://dsm.ikun.hn.cn:9981/stream/channelid/2089128011?profile=pass
+#EXTINF:-1 tvg-id="CCTV5+" tvg-name="CCTV5+" tvg-logo="https://live.fanmingming.com/tv/CCTV5+.png" group-title="有线电视源",CCTV5+
+http://dsm.ikun.hn.cn:9981/stream/channelid/1858500388?profile=pass
+#EXTINF:-1 tvg-id="CCTV6" tvg-name="CCTV6" tvg-logo="https://live.fanmingming.com/tv/CCTV6.png" group-title="有线电视源",CCTV6
+http://dsm.ikun.hn.cn:9981/stream/channelid/697739512?profile=pass
+#EXTINF:-1 tvg-id="CCTV7" tvg-name="CCTV7" tvg-logo="https://live.fanmingming.com/tv/CCTV7.png" group-title="有线电视源",CCTV7
+http://dsm.ikun.hn.cn:9981/stream/channelid/2027631363?profile=pass
+#EXTINF:-1 tvg-id="CCTV8" tvg-name="CCTV8" tvg-logo="https://live.fanmingming.com/tv/CCTV8.png" group-title="有线电视源",CCTV8
+http://dsm.ikun.hn.cn:9981/stream/channelid/1170984174?profile=pass
+#EXTINF:-1 tvg-id="CCTV9" tvg-name="CCTV9" tvg-logo="https://live.fanmingming.com/tv/CCTV9.png" group-title="有线电视源",CCTV9
+http://dsm.ikun.hn.cn:9981/stream/channelid/1752055544?profile=pass
+#EXTINF:-1 tvg-id="CCTV10" tvg-name="CCTV10" tvg-logo="https://live.fanmingming.com/tv/CCTV10.png" group-title="有线电视源",CCTV10
+http://dsm.ikun.hn.cn:9981/stream/channelid/623362120?profile=pass
+#EXTINF:-1 tvg-id="CCTV11" tvg-name="CCTV11" tvg-logo="https://live.fanmingming.com/tv/CCTV11.png" group-title="有线电视源",CCTV11
+http://dsm.ikun.hn.cn:9981/stream/channelid/18840768?profile=pass
+#EXTINF:-1 tvg-id="CCTV12" tvg-name="CCTV12" tvg-logo="https://live.fanmingming.com/tv/CCTV12.png" group-title="有线电视源",CCTV12
+http://dsm.ikun.hn.cn:9981/stream/channelid/1823883762?profile=pass
+#EXTINF:-1 tvg-id="CCTV13" tvg-name="CCTV13" tvg-logo="https://live.fanmingming.com/tv/CCTV13.png" group-title="有线电视源",CCTV13
+http://dsm.ikun.hn.cn:9981/stream/channelid/1786827291?profile=pass
+#EXTINF:-1 tvg-id="CCTV15" tvg-name="CCTV15" tvg-logo="https://live.fanmingming.com/tv/CCTV15.png" group-title="有线电视源",CCTV15
+http://dsm.ikun.hn.cn:9981/stream/channelid/315218797?profile=pass
+#EXTINF:-1 tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://live.fanmingming.com/tv/CCTV16.png" group-title="有线电视源",CCTV16
+http://dsm.ikun.hn.cn:9981/stream/channelid/1315436335?profile=pass
+#EXTINF:-1 tvg-id="CCTV17" tvg-name="CCTV17" tvg-logo="https://live.fanmingming.com/tv/CCTV17.png" group-title="有线电视源",CCTV17
+http://dsm.ikun.hn.cn:9981/stream/channelid/1810746685?profile=pass
+#EXTINF:-1 tvg-id="CCTV4K" tvg-name="CCTV4K超高清" tvg-logo="https://live.fanmingming.com/tv/CCTV4K.png" group-title="4K&IPTV",CCTV4K超高清
+http://tencent.live.cbncdn.cn/__cl/cg:live/__c/CCTV4K/__op/default/__f/index.m3u8
+#EXTINF:-1 tvg-id="CCTV8K" tvg-name="CCTV8K超高清" tvg-logo="https://live.fanmingming.com/tv/CCTV8K.png" group-title="4K&IPTV",CCTV8K超高清
+http://123.184.28.33/hlslive-tx-cdn.ysp.cctv.cn/071/2020603421.m3u8
+#EXTINF:-1 tvg-id="BesTV" tvg-name="BesTV电影4K" tvg-logo="https://live.fanmingming.com/tv/bestv.png" group-title="4K&IPTV" ,BesTv电影4K
+http://www.17888.fun:10000/udp/239.45.3.107:5140
+#EXTINF:-1 tvg-id="BesTV" tvg-name="百事通电影4K" tvg-logo="https://live.fanmingming.com/tv/bestv.png" group-title="4K&IPTV" ,百事通电影4K
+http://www.17888.fun:10000/rtp/239.45.1.42:5140
+#EXTINF:-1 tvg-id="BesTV" tvg-name="百事通纪实4K" tvg-logo="https://live.fanmingming.com/tv/bestv.png" group-title="4K&IPTV" ,百事通纪实4K
+http://www.17888.fun:10000/rtp/239.45.1.10:5140
+#EXTINF:-1 tvg-id="BesTV" tvg-name="百事通儿童4K" tvg-logo="https://live.fanmingming.com/tv/bestv.png" group-title="4K&IPTV" ,百事通儿童4K
+http://www.17888.fun:10000/rtp/239.45.1.1:5140
+#EXTINF:-1,tvg-id="纯享4k" tvg-name="纯享4k" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/mengxianshengaaa/live/main/chunxiang4k.png" group-title="4K&IPTV",纯享4K
+http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010006/1.m3u8
+#EXTINF:-1 tvg-id="4K自然" tvg-name="4K自然" tvg-logo="https://live.fanmingming.com/tv/LoveNature.png" group-title="4K&IPTV" ,Love Nrture 4K
+https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
+#EXTINF:-1 tvg-id="4K时尚" tvg-name="4K时尚" tvg-logo="https://live.fanmingming.com/tv/fashiontv.png" group-title="4K&IPTV" ,Fashion 4K「时尚」
+http://fash2043.cloudycdn.services//slive/_definst_/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/chunklist_b10668000_t64NGs=.m3u8
+#EXTINF:-1 tvg-id="北京超清4K" tvg-name="北京超清4K" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/mengxianshengaaa/live/main/beijingiptv4k.png" group-title="4K&IPTV",北京超清4K
+http://bjuni.iptv.im2k.com:5018/rtp/239.3.1.249:8001
+#EXTINF:-1 tvg-id="北京超清4K" tvg-name="北京超清4K" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/mengxianshengaaa/live/main/beijingiptv4k.png" group-title="4K&IPTV",北京超清4K
+http://dev.grayidea.com:4022/udp/239.3.1.249:8001
+http://www.weec.top:2222/rtp/239.3.1.249:8001
+#EXTINF:-1 tvg-id="北京纪实科教8K" tvg-name="北京纪实科教8K" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/mengxianshengaaa/live/main/jishikejiao8k.png" group-title="4K&IPTV",北京纪实科教8K
+http://111.31.106.140/downflv.brtvcloud.com/8klive/8kliveok.m3u8
 
 
 
