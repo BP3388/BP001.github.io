@@ -11,15 +11,13 @@
 
 
 
-#EXTINF:-1,tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://epg.112114.xyz/logo/CCTV1.png" group-title="AA",4K HDR
-http://bjuni.iptv.im2k.com:5018/rtp/239.49.8.82:8000
+#EXTINF:-1,tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://epg.112114.xyz/logo/CCTV1.png" group-title="AA",CCTV5
+http://dns.art2kn.win:7000/udp/239.3.1.173:8001
 
-#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/CCTV5.png" group-title="AA",4K SDR
-http://bjuni.iptv.im2k.com:5018/rtp/239.49.8.38:8632
-
-#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/CCTV5.png" group-title="AA",TEST
-http://guany.myds.me:25852/rtp/233.50.202.11:5140	
-
+#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/CCTV5.png" group-title="AA",CCTV4
+http://dns.art2kn.win:7000/udp/239.3.1.214:4220&北京ip
+#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/CCTV5.png" group-title="AA",CCTV16 4K
+http://iptv.skygogo.cn:18889/rtp/239.49.0.109:8000
 
 #EXTINF:-1 group-title="黑龙江移动",CCTV-1
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226016/index.m3u8
