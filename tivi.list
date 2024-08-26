@@ -18,7 +18,7 @@ http://bjuni.iptv.im2k.com:5018/rtp/239.49.8.82:8000
 http://bjuni.iptv.im2k.com:5018/rtp/239.49.8.38:8632
 
 #EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/CCTV5.png" group-title="AA",TEST
-http://guany.myds.me:25852/udp/233.50.202.11:5140	
+http://guany.myds.me:25852/rtp/233.50.202.11:5140	
 
 
 #EXTINF:-1 group-title="黑龙江移动",CCTV-1
