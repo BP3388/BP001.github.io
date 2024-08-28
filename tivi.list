@@ -7,7 +7,6 @@
 
 #EXTINF:-1 tvg-id="CHC影迷电影" tvg-name="CHC影迷电影" tvg-logo="https://live.fanmingming.com/tv/CHC影迷电影.png" group-title="有线电视源",CHC影迷电影
 
-#EXTINF:-1  group-title="有线电视源",欢笑剧场4K
 #EXTINF:-1 tvg-id="Qiusuo1" tvg-name="求索纪录" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Qiusuo1.png" group-title="数字高清",求索纪录
 http://php.jdshipin.com:8880/itv6.php?cid=hnbblive&id=2000000004000000010
 #EXTINF:-1 tvg-id="Qiusuo2" tvg-name="求索science" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Qiusuo2.png" group-title="数字高清",求索science
@@ -171,6 +170,8 @@ http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225893/index.m3u8
 #EXTINF:-1 tvg-id="CCTV17" tvg-name="CCTV17" tvg-logo="https://wtv.tools.yigechengzi.com/api/v1/tvg/logo/CCTV17" group-title="央视V6",CCTV-17
 http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225765/index.m3u8
 
+#EXTINF:-1 group-title="北京4K",CCTV16 4K1
+http://php.jdshipin.com:8880/itv6s.php?cid=bestzb&id=5000000008000023254
 
 #EXTINF:-1 group-title="北京4K",CCTV16 
 http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/5000000008000023254/index.m3u8?livemode=1&stbId=10&channel-id=bestzb&Contentid=5000000008000023254
@@ -184,16 +185,19 @@ http://bjuni.iptv.im2k.com:5018/rtp/239.3.1.249:8001
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="北京4K",纯享4K
 http://[2409:8087:5e08:24::8]:6610/000000001000/1000000004000011651/index.m3u8?channel-id=ystenlive&Contentid=1000000004000011651&livemode=1&stbId=3$17M UHD
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="北京4K",欢笑剧场4K-1
-http://[2409:8087:5e08:24::8]:6610/000000001000/5000000002000009455/index.m3u8?channel-id=bestzb&Contentid=5000000002000009455&livemode=1&stbId=3$3M FHD
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="北京4K",欢笑剧场4K-2
-http://[2409:8087:5e08:24::8]:6610/000000001000/5000000007000010001/index.m3u8?channel-id=bestzb&Contentid=5000000007000010001&livemode=1&stbId=3$12M UHD HEVC
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="北京4K",欢笑剧场4K
+http://php.jdshipin.com:8880/itv6s.php?cid=bestzb&id=5000000007000010001
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="北京4K",欢笑剧场4K-1080
+http://php.jdshipin.com:8880/itv6.php?cid=bestzb&id=5000000002000009455
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="北京4K",CCTV4K
 http://bjuni.iptv.im2k.com:5018/rtp/239.3.1.244:2000
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="北京4K",CCTV4K HDR
 http://bjuni.iptv.im2k.com:5018/rtp/239.3.1.245:2000
 
+
+#EXTINF:-1,tvg-id="纯享4k" tvg-name="纯享4k" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/mengxianshengaaa/live/main/chunxiang4k.png" group-title="北京4K",纯享4K
+http://php.jdshipin.com:8880/itv6.php?cid=ystenlive&id=1000000004000011651
 #EXTINF:-1,tvg-id="纯享4k" tvg-name="纯享4k" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/mengxianshengaaa/live/main/chunxiang4k.png" group-title="北京4K",纯享4K
 http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010006/1.m3u8
 #EXTINF:-1 tvg-id="4K自然" tvg-name="4K自然" tvg-logo="https://live.fanmingming.com/tv/LoveNature.png" group-title="北京4K",Love Nrture 4K
