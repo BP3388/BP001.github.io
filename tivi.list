@@ -869,11 +869,11 @@ http://[2409:8087:5e08:24::12]:6610/000000001000/2000000004000000008/index.m3u8?
 
 
 #EXTINF:-1 tvg-name="CHC家庭电影" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC2.jpg" group-title="CHC",CHC家庭影院
-http://222.141.133.239:8888/rtp/225.1.4.209:1262?$河南联通
+http://iptviptv.site:9694/hls/700/index.m3u8
 #EXTINF:-1 tvg-name="CHC高清电影" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC3.jpg" group-title="CHC",CHC高清电影
-http://222.141.133.239:8888/rtp/225.1.4.207:1260?$河南联通
+http://iptviptv.site:9694/hls/702/index.m3u8
 #EXTINF:-1 tvg-name="CHC动作电影" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC1.jpg" group-title="CHC",CHC动作电影
-http://222.141.133.239:8888/rtp/225.1.4.208:1261?$河南联通
+http://iptviptv.site:9694/hls/701/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name=""group-title="新闻台",CNA 
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
