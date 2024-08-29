@@ -246,7 +246,7 @@ http://bjuni.iptv.im2k.com:5018/rtp/239.3.1.245:2000
 #EXTINF:-1 tvg-id="7244" tvg-name="爱上4K" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/aishang4k.png" group-title="北京4K",爱上4K
 http://bjuni.iptv.im2k.com:5018/rtp/239.3.1.236:2000
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="北京4K",4K超清 北京IPTV
-http://bjuni.iptv.im2k.com:5018/rtp/239.3.1.249:8001
+https://bjuni.iptv.im2k.com:5018/rtp/239.3.1.249:8001
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="北京4K",纯享4K
 http://[2409:8087:5e08:24::8]:6610/000000001000/1000000004000011651/index.m3u8?channel-id=ystenlive&Contentid=1000000004000011651&livemode=1&stbId=3$17M UHD
