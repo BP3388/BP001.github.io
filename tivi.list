@@ -1,5 +1,39 @@
 
 #EXTM3U x-tvg-url="https://live.fanmingming.com/e.xml"
+#EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="山西太原",CCTV1-HD
+http://61.134.200.65:8082/udp/226.0.2.153:9136
+#EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV2.png" group-title="山西太原",CCTV2-HD
+http://61.134.200.65:8082/udp/226.0.2.154:9144
+#EXTINF:-1 tvg-id="3" tvg-name="CCTV3" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV3.png" group-title="山西太原",CCTV3-HD
+http://61.134.200.65:8082/udp/226.0.2.208:9576
+#EXTINF:-1 tvg-id="4" tvg-name="CCTV4" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4.png" group-title="山西太原",CCTV4-HD
+http://61.134.200.65:8082/udp/226.0.2.156:9160
+#EXTINF:-1 tvg-id="5" tvg-name="CCTV5" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5.png" group-title="山西太原",CCTV5-HD
+http://61.134.200.65:8082/udp/226.0.2.209:9584
+#EXTINF:-1 tvg-id="6" tvg-name="CCTV6" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV6.png" group-title="山西太原",CCTV6-HD
+http://61.134.200.65:8082/udp/226.0.2.210:9592
+#EXTINF:-1 tvg-id="7" tvg-name="CCTV7" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV7.png" group-title="山西太原",CCTV7-HD
+http://61.134.200.65:8082/udp/226.0.2.159:9184
+#EXTINF:-1 tvg-id="8" tvg-name="CCTV8" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV8.png" group-title="山西太原",CCTV8-HD
+http://61.134.200.65:8082/udp/226.0.2.211:9600
+#EXTINF:-1 tvg-id="9" tvg-name="CCTV9" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV9.png" group-title="山西太原",CCTV9-HD
+http://61.134.200.65:8082/udp/226.0.2.161:9200
+#EXTINF:-1 tvg-id="10" tvg-name="CCTV10" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV10.png" group-title="山西太原",CCTV10-HD
+http://61.134.200.65:8082/udp/226.0.2.162:9208
+#EXTINF:-1 tvg-id="11" tvg-name="CCTV11" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV11.png" group-title="山西太原",CCTV11-HD
+http://61.134.200.65:8082/udp/226.0.1.28:3021
+#EXTINF:-1 tvg-id="12" tvg-name="CCTV12" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV12.png" group-title="山西太原",CCTV12-HD
+http://61.134.200.65:8082/udp/226.0.2.164:9224
+#EXTINF:-1 tvg-id="13" tvg-name="CCTV13" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV13.png" group-title="山西太原",CCTV13-HD
+http://61.134.200.65:8082/udp/226.0.2.165:9232
+#EXTINF:-1 tvg-id="14" tvg-name="CCTV14" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV14.png" group-title="山西太原",CCTV14-HD
+http://61.134.200.65:8082/udp/226.0.2.166:9240
+#EXTINF:-1 tvg-id="15" tvg-name="CCTV5+" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5+.png" group-title="山西太原",CCTV5+-HD
+http://61.134.200.65:8082/udp/226.0.2.168:9256
+#EXTINF:-1 tvg-id="7249" tvg-name="CCTV16" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV16.png" group-title="山西太原",CCTV16-HD
+http://61.134.200.65:8082/udp/226.0.2.169:9264
+
+
 
 
 #EXTINF:-1 tvg-id="Qiusuo1" tvg-name="求索纪录" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Qiusuo1.png" group-title="数字高清",求索纪录
