@@ -1,11 +1,238 @@
 
 #EXTM3U x-tvg-url="https://live.fanmingming.com/e.xml"
-#EXTINF:-1,tvg-id="CHC高清电影" tvg-name="CHC高清电影" tvg-logo="https://epg.112114.xyz/logo/CHC高清电影.png" group-title="TEST 2024",CHC高清电影
-http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226463/index.m3u8
-#EXTINF:-1,tvg-id="CHC动作电影" tvg-name="CHC动作电影" tvg-logo="https://epg.112114.xyz/logo/CHC动作电影.png" group-title="TEST 2024",CHC动作电影
-http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226465/index.m3u8
-#EXTINF:-1,tvg-id="CHC家庭影院" tvg-name="CHC家庭影院" tvg-logo="https://epg.112114.xyz/logo/CHC家庭影院.png" group-title="TEST 2024",CHC家庭影院
-http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226462/index.m3u8
+
+
+#EXTINF:0  group-title="Best TV",CCTV1
+http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/1.m3u8?channel-id=bestzb&Contentid=5000000004000002226&livemode=1&stbId=3&HlsProfileId=
+#EXTINF:0  group-title="Best TV",四川卫视
+http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/1.m3u8?channel-id=bestzb&Contentid=5000000004000006119&livemode=1&stbId=3&HlsProfileId=
+#EXTINF:0  group-title="Best TV",CCTV14
+http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/1.m3u8?channel-id=bestzb&Contentid=5000000004000006673&livemode=1&stbId=3&HlsProfileId=
+#EXTINF:0  group-title="Best TV",浙江卫视
+http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/1.m3u8?channel-id=bestzb&Contentid=5000000004000007275&livemode=1&stbId=3&HlsProfileId=
+#EXTINF:0  group-title="Best TV",深圳卫视
+http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/1.m3u8?channel-id=bestzb&Contentid=5000000004000007410&livemode=1&stbId=3&HlsProfileId=
+#EXTINF:0  group-title="Best TV",CCTV3
+http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/1.m3u8?channel-id=bestzb&Contentid=5000000004000008883&livemode=1&stbId=3&HlsProfileId=
+#EXTINF:0  group-title="Best TV",CCTV5
+http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/1.m3u8?channel-id=bestzb&Contentid=5000000004000008885&livemode=1&stbId=3&HlsProfileId=
+#EXTINF:0  group-title="Best TV",CCTV6
+http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/1.m3u8?channel-id=bestzb&Contentid=5000000004000008886&livemode=1&stbId=3&HlsProfileId=
+#EXTINF:0  group-title="Best TV",CCTV8
+http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/1.m3u8?channel-id=bestzb&Contentid=5000000004000008888&livemode=1&stbId=3&HlsProfileId=
+#EXTINF:0  group-title="Best TV",CCTV10
+http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/1.m3u8?channel-id=bestzb&Contentid=5000000004000012827&livemode=1&stbId=3&HlsProfileId=
+#EXTINF:0  group-title="Best TV",东方卫视
+http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/1.m3u8?channel-id=bestzb&Contentid=5000000004000014098&livemode=1&stbId=3&HlsProfileId=
+#EXTINF:0  group-title="Best TV",安徽卫视
+http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/1.m3u8?channel-id=bestzb&Contentid=5000000004000023002&livemode=1&stbId=3&HlsProfileId=
+#EXTINF:0  group-title="Best TV",黑龙江卫视
+http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/1.m3u8?channel-id=bestzb&Contentid=5000000004000025203&livemode=1&stbId=3&HlsProfileId=
+#EXTINF:0  group-title="Best TV",CCTV9
+http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/1.m3u8?channel-id=bestzb&Contentid=5000000010000018384&livemode=1&stbId=3&HlsProfileId=
+#EXTINF:0  group-title="Best TV",CCTV4
+http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/1.m3u8?channel-id=bestzb&Contentid=5000000011000031102&livemode=1&stbId=3&HlsProfileId=
+#EXTINF:0  group-title="Best TV",CCTV7
+http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/1.m3u8?channel-id=bestzb&Contentid=5000000011000031104&livemode=1&stbId=3&HlsProfileId=
+#EXTINF:0  group-title="Best TV",CCTV11
+http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/1.m3u8?channel-id=bestzb&Contentid=5000000011000031106&livemode=1&stbId=3&HlsProfileId=
+#EXTINF:0  group-title="Best TV",CCTV12
+http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/1.m3u8?channel-id=bestzb&Contentid=5000000011000031107&livemode=1&stbId=3&HlsProfileId=
+#EXTINF:0  group-title="Best TV",CCTV13
+http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/1.m3u8?channel-id=bestzb&Contentid=5000000011000031108&livemode=1&stbId=3&HlsProfileId=
+#EXTINF:0  group-title="Best TV",吉林卫视
+http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/1.m3u8?channel-id=bestzb&Contentid=5000000011000031117&livemode=1&stbId=3&HlsProfileId=
+#EXTINF:0  group-title="Best TV",广西卫视
+http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/1.m3u8?channel-id=bestzb&Contentid=5000000011000031118&livemode=1&stbId=3&HlsProfileId=
+#EXTINF:0  group-title="Best TV",河南卫视
+http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/1.m3u8?channel-id=bestzb&Contentid=5000000011000031119&livemode=1&stbId=3&HlsProfileId=
+#EXTINF:0  group-title="Best TV",云南卫视
+http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/1.m3u8?channel-id=bestzb&Contentid=5000000011000031120&livemode=1&stbId=3&HlsProfileId=
+#EXTINF:0  group-title="Best TV",甘肃卫视
+http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/1.m3u8?channel-id=bestzb&Contentid=5000000011000031121&livemode=1&stbId=3&HlsProfileId=
+#EXTINF:0  group-title="Best TV",CCTV5
+http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/1.m3u8?channel-id=bestzb&Contentid=5000000011000031127&livemode=1&stbId=3&HlsProfileId=
+#EXTINF:0  group-title="Best TV",天津卫视
+http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/1000000001000000831/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=1000000001000000831
+#EXTINF:0  group-title="Best TV",重庆卫视
+http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/1000000001000001096/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=1000000001000001096
+#EXTINF:0  group-title="Best TV",CCTV12
+http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/1000000001000001640/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=1000000001000001640
+#EXTINF:0  group-title="Best TV",CCTV6
+http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/1000000001000001737/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=1000000001000001737
+#EXTINF:0  group-title="Best TV",江苏卫视
+http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/1000000001000001828/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=1000000001000001828
+#EXTINF:0  group-title="Best TV",北京纪实科教
+http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/1000000001000001910/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=1000000001000001910
+#EXTINF:0  group-title="Best TV",黑龙江卫视
+http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/1000000001000001925/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=1000000001000001925
+#EXTINF:0  group-title="Best TV",辽宁卫视
+http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/1000000001000001945/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=1000000001000001945
+#EXTINF:0  group-title="Best TV",天津卫视
+http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/1000000001000003475/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=1000000001000003475
+#EXTINF:0  group-title="Best TV",CCTV8
+http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/1000000001000003736/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=1000000001000003736
+#EXTINF:0  group-title="Best TV",NewTV哒啵赛事
+http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/1000000001000003775/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=1000000001000003775
+#EXTINF:0  group-title="Best TV",江苏卫视
+http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/1000000001000004684/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=1000000001000004684
+#EXTINF:0  group-title="Best TV",CCTV5
+http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/1000000001000004794/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=1000000001000004794
+#EXTINF:0  group-title="Best TV",东方卫视
+http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/1000000001000005866/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=1000000001000005866
+#EXTINF:0  group-title="Best TV",NewTV魅力潇湘
+http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/1000000001000006197/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=1000000001000006197
+#EXTINF:0  group-title="Best TV",NewTV超级电视剧
+http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/1000000001000008139/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=1000000001000008139
+#EXTINF:0  group-title="Best TV",CCTV14
+http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/1000000001000008170/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=1000000001000008170
+#EXTINF:0  group-title="Best TV",黑龙江卫视
+http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/1000000001000009082/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=1000000001000009082
+#EXTINF:0  group-title="Best TV",湖南卫视
+http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/1000000001000009115/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=1000000001000009115
+#EXTINF:0  group-title="Best TV",深圳卫视
+http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/1000000001000009227/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=1000000001000009227
+#EXTINF:0  group-title="Best TV",NewTV超级体育
+http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/1000000001000009601/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=1000000001000009601
+#EXTINF:0  group-title="Best TV",浙江卫视
+http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/1000000001000009806/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=1000000001000009806
+#EXTINF:0  group-title="Best TV",湖北卫视
+http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/1000000001000010355/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=1000000001000010355
+#EXTINF:0  group-title="Best TV",SiTV纪实人文
+http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/1000000001000010606/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=1000000001000010606
+#EXTINF:0  group-title="Best TV",深圳卫视
+http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/1000000001000011645/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=1000000001000011645
+#EXTINF:0  group-title="Best TV",山东卫视
+http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/1000000001000012807/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=1000000001000012807
+#EXTINF:0  group-title="Best TV",江西卫视
+http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/1000000001000013731/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=1000000001000013731
+#EXTINF:0  group-title="Best TV",广东卫视
+http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/1000000001000014176/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=1000000001000014176
+#EXTINF:0  group-title="Best TV",浙江卫视
+http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/1000000001000014260/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=1000000001000014260
+#EXTINF:0  group-title="Best TV",CCTV9
+http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/1000000001000014583/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=1000000001000014583
+#EXTINF:0  group-title="Best TV",CCTV6
+http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/1000000001000016466/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=1000000001000016466
+#EXTINF:0  group-title="Best TV",SiTV纪实人文
+http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/1000000001000016545/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=1000000001000016545
+#EXTINF:0  group-title="Best TV",山东卫视
+http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/1000000001000016568/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=1000000001000016568
+#EXTINF:0  group-title="Best TV",北京卫视
+http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/1000000001000017156/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=1000000001000017156
+#EXTINF:0  group-title="Best TV",CCTV7
+http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/1000000001000017218/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=1000000001000017218
+#EXTINF:0  group-title="Best TV",CCTV1
+http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/1000000001000018602/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=1000000001000018602
+#EXTINF:0  group-title="Best TV",CCTV5
+http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/1000000001000020505/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=1000000001000020505
+#EXTINF:0  group-title="Best TV",安徽卫视
+http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/1000000001000020780/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=1000000001000020780
+#EXTINF:0  group-title="Best TV",CCTV14
+http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/1000000001000021349/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=1000000001000021349
+#EXTINF:0  group-title="Best TV",CCTV2
+http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/1000000001000023315/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=1000000001000023315
+#EXTINF:0  group-title="Best TV",CCTV10
+http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/1000000001000023734/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=1000000001000023734
+#EXTINF:0  group-title="Best TV",CCTV7
+http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/1000000001000024341/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=1000000001000024341
+#EXTINF:0  group-title="Best TV",湖北卫视
+http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/1000000001000024621/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=1000000001000024621
+#EXTINF:0  group-title="Best TV",CCTV10
+http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/1000000001000026367/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=1000000001000026367
+#EXTINF:0  group-title="Best TV",广东卫视
+http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/1000000001000028357/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=1000000001000028357
+#EXTINF:0  group-title="Best TV",北京纪实科教
+http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/1000000001000028380/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=1000000001000028380
+#EXTINF:0  group-title="Best TV",安徽卫视
+http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/1000000001000030159/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=1000000001000030159
+#EXTINF:0  group-title="Best TV",东方卫视
+http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/1000000001000030202/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=1000000001000030202
+#EXTINF:0  group-title="Best TV",CCTV8
+http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/1000000001000031433/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=1000000001000031433
+#EXTINF:0  group-title="Best TV",CCTV12
+http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/1000000001000032494/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=1000000001000032494
+#EXTINF:0  group-title="Best TV",湖南卫视
+http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/1000000001000032695/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=1000000001000032695
+#EXTINF:0  group-title="Best TV",SiTV哈哈炫动
+http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/1000000002000000172/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=1000000002000000172
+#EXTINF:0  group-title="Best TV",北京卡酷少儿
+http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/1000000002000002413/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=1000000002000002413
+#EXTINF:0  group-title="Best TV",贵州卫视
+http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/1000000002000003169/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=1000000002000003169
+#EXTINF:0  group-title="Best TV",山东教育卫视
+http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/1000000002000004097/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=1000000002000004097
+#EXTINF:0  group-title="Best TV",陕西卫视
+http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/1000000002000007495/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=1000000002000007495
+#EXTINF:0  group-title="Best TV",CCTV15
+http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/1000000002000008163/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=1000000002000008163
+#EXTINF:0  group-title="Best TV",东南卫视
+http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/1000000002000009263/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=1000000002000009263
+#EXTINF:0  group-title="Best TV",CGTN
+http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/1000000002000009569/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=1000000002000009569
+#EXTINF:0  group-title="Best TV",江苏优漫卡通
+http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/1000000002000010063/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=1000000002000010063
+#EXTINF:0  group-title="Best TV",青海卫视
+http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/1000000002000013359/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=1000000002000013359
+#EXTINF:0  group-title="Best TV",内蒙古卫视
+http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/1000000002000014080/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=1000000002000014080
+#EXTINF:0  group-title="Best TV",湖南金鹰卡通
+http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/1000000002000016601/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=1000000002000016601
+#EXTINF:0  group-title="Best TV",甘肃卫视
+http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/1000000002000017827/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=1000000002000017827
+#EXTINF:0  group-title="Best TV",重庆卫视
+http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/1000000002000018937/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=1000000002000018937
+#EXTINF:0  group-title="Best TV",CCTV11
+http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/1000000002000019789/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=1000000002000019789
+#EXTINF:0  group-title="Best TV",广西卫视
+http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/1000000002000019837/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=1000000002000019837
+#EXTINF:0  group-title="Best TV",山西卫视
+http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/1000000002000021220/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=1000000002000021220
+#EXTINF:0  group-title="Best TV",CCTV13
+http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/1000000002000021303/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=1000000002000021303
+#EXTINF:0  group-title="Best TV",海南卫视
+http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/1000000002000023773/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=1000000002000023773
+#EXTINF:0  group-title="Best TV",云南卫视
+http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/1000000002000024694/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=1000000002000024694
+#EXTINF:0  group-title="Best TV",NewTV超级电影
+http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/1000000003000012426/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=1000000003000012426
+#EXTINF:0  group-title="Best TV",CCTV5
+http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/1000000003000030177/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=1000000003000030177
+#EXTINF:0  group-title="Best TV",NewTV超级电影
+http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/1000000004000002120/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=1000000004000002120
+#EXTINF:0  group-title="Best TV",NewTV家庭剧场
+http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/1000000004000008284/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=1000000004000008284
+#EXTINF:0  group-title="Best TV",纯享4K UHD 20M
+http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/1000000004000011651/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=1000000004000011651
+#EXTINF:0  group-title="Best TV",NewTV超级电视剧
+http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/1000000004000024993/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=1000000004000024993
+#EXTINF:0  group-title="Best TV",NewTV金牌综艺
+http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/1000000004000026167/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=1000000004000026167
+#EXTINF:0  group-title="Best TV",CCTV5 12M
+http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/1000000005000025222/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=1000000005000025222
+#EXTINF:0  group-title="Best TV",CETV4
+http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/1000000005000025333/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=1000000005000025333
+#EXTINF:0  group-title="Best TV",CCTV1 5.5MHEVC
+http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/1000000005000265001/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=1000000005000265001
+#EXTINF:0  group-title="Best TV",CCTV11 5.5MHEVC
+http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/1000000005000265011/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=1000000005000265011
+#EXTINF:0  group-title="Best TV",CCTV12 5.5MHEVC
+http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/1000000005000265012/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=1000000005000265012
+#EXTINF:0  group-title="Best TV",CCTV15 5.5MHEVC
+http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/1000000005000265014/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=1000000005000265014
+#EXTINF:0  group-title="Best TV",CCTV5 5.5MHEVC
+http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/1000000005000265016/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=1000000005000265016
+#EXTINF:0  group-title="Best TV",重庆卫视 5.5MHEVC
+http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/1000000005000265017/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=1000000005000265017
+#EXTINF:0  group-title="Best TV",东方卫视 5.5MHEVC
+http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/1000000005000265018/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=1000000005000265018
+#EXTINF:0  group-title="Best TV",山东卫视 5.5MHEVC
+http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/1000000005000265019/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=1000000005000265019
+#EXTINF:0  group-title="Best TV",北京纪实科教 5.5MHEVC
+http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/1000000005000265020/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=1000000005000265020
+#EXTINF:0  group-title="Best TV",SiTV纪实人文 5.5MHEVC
+
+
 
 
 #EXTINF:-1,tvg-id="4K60PSDR-H264-AAC测试" tvg-name="4K60PSDR-H264-AAC测试" tvg-logo="https://cdn.jsdelivr.net/gh/feiyangdigital/testvideo/tg.jpg" group-title="4K频道",4K60PSDR-H264-AAC测试
