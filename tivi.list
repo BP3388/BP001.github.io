@@ -122,44 +122,81 @@ http://php.jdshipin.com/itv6.php?cid=ystenlive&id=1000000004000011651
 
 
 
+
 #EXTINF:0  group-title="Best TV",CCTV1
 http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/1.m3u8?channel-id=bestzb&Contentid=5000000004000002226&livemode=1&stbId=3&HlsProfileId=
-#EXTINF:0  group-title="Best TV",四川卫视
-http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/1.m3u8?channel-id=bestzb&Contentid=5000000004000006119&livemode=1&stbId=3&HlsProfileId=
-#EXTINF:0  group-title="Best TV",CCTV14
-http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/1.m3u8?channel-id=bestzb&Contentid=5000000004000006673&livemode=1&stbId=3&HlsProfileId=
-#EXTINF:0  group-title="Best TV",浙江卫视
-http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/1.m3u8?channel-id=bestzb&Contentid=5000000004000007275&livemode=1&stbId=3&HlsProfileId=
-#EXTINF:0  group-title="Best TV",深圳卫视
-http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/1.m3u8?channel-id=bestzb&Contentid=5000000004000007410&livemode=1&stbId=3&HlsProfileId=
+#EXTINF:0  group-title="Best TV",CCTV2
+http://gslbservzqhsw.itv.cmvideo.cn/000000001000/1000000001000012442/1.m3u8?channel-id=ystenlive&Contentid=1000000001000012442&livemode=1&stbId=3
+#EXTINF:0  group-title="Best TV",CCTV2
+http://gslbservzqhsw.itv.cmvideo.cn/000000001000/1000000001000023315/1.m3u8?channel-id=ystenlive&Contentid=1000000001000023315&livemode=1&stbId=3
+#EXTINF:0  group-title="Best TV",CCTV2
+http://gslbservzqhsw.itv.cmvideo.cn/000000001000/1000000001000023315/index.m3u8?channel-id=ystenlive&Contentid=1000000001000023315&livemode=1&stbId=3
+
 #EXTINF:0  group-title="Best TV",CCTV3
 http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/1.m3u8?channel-id=bestzb&Contentid=5000000004000008883&livemode=1&stbId=3&HlsProfileId=
+#EXTINF:0  group-title="Best TV",CCTV4
+http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/1.m3u8?channel-id=bestzb&Contentid=5000000011000031102&livemode=1&stbId=3&HlsProfileId=
+#EXTINF:0  group-title="Best TV",CCTV5 12M
+http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/1000000005000025222/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=1000000005000025222
+
+#EXTINF:0  group-title="Best TV",CCTV5
+http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/1.m3u8?channel-id=bestzb&Contentid=5000000011000031127&livemode=1&stbId=3&HlsProfileId=
+#EXTINF:0  group-title="Best TV",CCTV5
+http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/1000000001000004794/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=1000000001000004794
+
 #EXTINF:0  group-title="Best TV",CCTV5
 http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/1.m3u8?channel-id=bestzb&Contentid=5000000004000008885&livemode=1&stbId=3&HlsProfileId=
+#EXTINF:0  group-title="Best TV",CCTV5+
+http://gslbservzqhsw.itv.cmvideo.cn/000000001000/1000000001000020505/index.m3u8?channel-id=ystenlive&Contentid=1000000001000020505&livemode=1&stbId=3
+
+#EXTINF:0  group-title="Best TV",CCTV5+
+http://gslbservzqhsw.itv.cmvideo.cn/000000001000/1000000001000018504/index.m3u8?channel-id=ystenlive&Contentid=1000000001000018504&livemode=1&stbId=3
+#EXTINF:0  group-title="Best TV",CCTV6
+http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/1000000001000001737/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=1000000001000001737
+
 #EXTINF:0  group-title="Best TV",CCTV6
 http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/1.m3u8?channel-id=bestzb&Contentid=5000000004000008886&livemode=1&stbId=3&HlsProfileId=
+#EXTINF:0  group-title="Best TV",CCTV7
+http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/1.m3u8?channel-id=bestzb&Contentid=5000000011000031104&livemode=1&stbId=3&HlsProfileId=
+#EXTINF:0  group-title="Best TV",CCTV8
+http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/1000000001000003736/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=1000000001000003736
+
 #EXTINF:0  group-title="Best TV",CCTV8
 http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/1.m3u8?channel-id=bestzb&Contentid=5000000004000008888&livemode=1&stbId=3&HlsProfileId=
+#EXTINF:0  group-title="Best TV",CCTV9
+http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/1.m3u8?channel-id=bestzb&Contentid=5000000010000018384&livemode=1&stbId=3&HlsProfileId=
+
 #EXTINF:0  group-title="Best TV",CCTV10
 http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/1.m3u8?channel-id=bestzb&Contentid=5000000004000012827&livemode=1&stbId=3&HlsProfileId=
+
+#EXTINF:0  group-title="Best TV",CCTV11
+http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/1.m3u8?channel-id=bestzb&Contentid=5000000011000031106&livemode=1&stbId=3&HlsProfileId=
+#EXTINF:0  group-title="Best TV",CCTV12
+http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/1.m3u8?channel-id=bestzb&Contentid=5000000011000031107&livemode=1&stbId=3&HlsProfileId=
+#EXTINF:0  group-title="Best TV",CCTV12
+http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/1000000001000001640/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=1000000001000001640
+
+#EXTINF:0  group-title="Best TV",CCTV13
+http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/1.m3u8?channel-id=bestzb&Contentid=5000000011000031108&livemode=1&stbId=3&HlsProfileId=
+#EXTINF:0  group-title="Best TV",CCTV14
+http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/1.m3u8?channel-id=bestzb&Contentid=5000000004000006673&livemode=1&stbId=3&HlsProfileId=
+#EXTINF:0  group-title="Best TV",CCTV14
+http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/1000000001000008170/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=1000000001000008170
+
+
+
+
+
+
+
+
 #EXTINF:0  group-title="Best TV",东方卫视
 http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/1.m3u8?channel-id=bestzb&Contentid=5000000004000014098&livemode=1&stbId=3&HlsProfileId=
 #EXTINF:0  group-title="Best TV",安徽卫视
 http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/1.m3u8?channel-id=bestzb&Contentid=5000000004000023002&livemode=1&stbId=3&HlsProfileId=
 #EXTINF:0  group-title="Best TV",黑龙江卫视
 http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/1.m3u8?channel-id=bestzb&Contentid=5000000004000025203&livemode=1&stbId=3&HlsProfileId=
-#EXTINF:0  group-title="Best TV",CCTV9
-http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/1.m3u8?channel-id=bestzb&Contentid=5000000010000018384&livemode=1&stbId=3&HlsProfileId=
-#EXTINF:0  group-title="Best TV",CCTV4
-http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/1.m3u8?channel-id=bestzb&Contentid=5000000011000031102&livemode=1&stbId=3&HlsProfileId=
-#EXTINF:0  group-title="Best TV",CCTV7
-http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/1.m3u8?channel-id=bestzb&Contentid=5000000011000031104&livemode=1&stbId=3&HlsProfileId=
-#EXTINF:0  group-title="Best TV",CCTV11
-http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/1.m3u8?channel-id=bestzb&Contentid=5000000011000031106&livemode=1&stbId=3&HlsProfileId=
-#EXTINF:0  group-title="Best TV",CCTV12
-http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/1.m3u8?channel-id=bestzb&Contentid=5000000011000031107&livemode=1&stbId=3&HlsProfileId=
-#EXTINF:0  group-title="Best TV",CCTV13
-http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/1.m3u8?channel-id=bestzb&Contentid=5000000011000031108&livemode=1&stbId=3&HlsProfileId=
+
 #EXTINF:0  group-title="Best TV",吉林卫视
 http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/1.m3u8?channel-id=bestzb&Contentid=5000000011000031117&livemode=1&stbId=3&HlsProfileId=
 #EXTINF:0  group-title="Best TV",广西卫视
@@ -170,16 +207,18 @@ http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/1.m3u8?channel-id=bestzb&Co
 http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/1.m3u8?channel-id=bestzb&Contentid=5000000011000031120&livemode=1&stbId=3&HlsProfileId=
 #EXTINF:0  group-title="Best TV",甘肃卫视
 http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/1.m3u8?channel-id=bestzb&Contentid=5000000011000031121&livemode=1&stbId=3&HlsProfileId=
-#EXTINF:0  group-title="Best TV",CCTV5
-http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/1.m3u8?channel-id=bestzb&Contentid=5000000011000031127&livemode=1&stbId=3&HlsProfileId=
+#EXTINF:0  group-title="Best TV",四川卫视
+http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/1.m3u8?channel-id=bestzb&Contentid=5000000004000006119&livemode=1&stbId=3&HlsProfileId=
+EXTINF:0  group-title="Best TV",浙江卫视
+http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/1.m3u8?channel-id=bestzb&Contentid=5000000004000007275&livemode=1&stbId=3&HlsProfileId=
+#EXTINF:0  group-title="Best TV",深圳卫视
+http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/1.m3u8?channel-id=bestzb&Contentid=5000000004000007410&livemode=1&stbId=3&HlsProfileId=
+
 #EXTINF:0  group-title="Best TV",天津卫视
 http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/1000000001000000831/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=1000000001000000831
 #EXTINF:0  group-title="Best TV",重庆卫视
 http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/1000000001000001096/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=1000000001000001096
-#EXTINF:0  group-title="Best TV",CCTV12
-http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/1000000001000001640/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=1000000001000001640
-#EXTINF:0  group-title="Best TV",CCTV6
-http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/1000000001000001737/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=1000000001000001737
+
 #EXTINF:0  group-title="Best TV",江苏卫视
 http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/1000000001000001828/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=1000000001000001828
 #EXTINF:0  group-title="Best TV",北京纪实科教
@@ -190,22 +229,21 @@ http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/1000000001000001925/index.m
 http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/1000000001000001945/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=1000000001000001945
 #EXTINF:0  group-title="Best TV",天津卫视
 http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/1000000001000003475/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=1000000001000003475
-#EXTINF:0  group-title="Best TV",CCTV8
-http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/1000000001000003736/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=1000000001000003736
+
+
 #EXTINF:0  group-title="Best TV",NewTV哒啵赛事
 http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/1000000001000003775/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=1000000001000003775
 #EXTINF:0  group-title="Best TV",江苏卫视
 http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/1000000001000004684/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=1000000001000004684
-#EXTINF:0  group-title="Best TV",CCTV5
-http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/1000000001000004794/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=1000000001000004794
+
+
 #EXTINF:0  group-title="Best TV",东方卫视
 http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/1000000001000005866/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=1000000001000005866
 #EXTINF:0  group-title="Best TV",NewTV魅力潇湘
 http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/1000000001000006197/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=1000000001000006197
 #EXTINF:0  group-title="Best TV",NewTV超级电视剧
 http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/1000000001000008139/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=1000000001000008139
-#EXTINF:0  group-title="Best TV",CCTV14
-http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/1000000001000008170/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=1000000001000008170
+
 #EXTINF:0  group-title="Best TV",黑龙江卫视
 http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/1000000001000009082/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=1000000001000009082
 #EXTINF:0  group-title="Best TV",湖南卫视
@@ -328,8 +366,7 @@ http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/1000000004000011651/index.m
 http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/1000000004000024993/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=1000000004000024993
 #EXTINF:0  group-title="Best TV",NewTV金牌综艺
 http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/1000000004000026167/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=1000000004000026167
-#EXTINF:0  group-title="Best TV",CCTV5 12M
-http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/1000000005000025222/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=1000000005000025222
+
 #EXTINF:0  group-title="Best TV",CETV4
 http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/1000000005000025333/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=1000000005000025333
 #EXTINF:0  group-title="Best TV",CCTV1 5.5MHEVC
