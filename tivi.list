@@ -2,7 +2,7 @@
 #EXTM3U x-tvg-url="https://live.fanmingming.com/e.xml"
 #EXTINF:-1,tvg-id="爱自然" tvg-name="爱自然" tvg-logo="https://epg.112114.xyz/logo/爱自然.png" group-title="UHD",爱自然
 https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
-#EXTINF:-1,tvg-id="Fashion4K" tvg-name="Fashion4K" tvg-logo="https://github.com/fanmingming/live/blob/main/tv/fashiontv.png?raw=true" group-title="UHD-IPV4",Fashion4K
+#EXTINF:-1,tvg-id="Fashion4K" tvg-name="Fashion4K" tvg-logo="https://github.com/fanmingming/live/blob/main/tv/fashiontv.png?raw=true" group-title="UHD",Fashion4K
 https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
 #http://fash2043.cloudycdn.services//slive/_definst_/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/chunklist_b10668000_t64NGs=.m3u8
 
@@ -19,12 +19,13 @@ http://182.126.39.120:4022/udp/225.1.4.254:1300
 #EXTINF:-1,tvg-id="河南卫视" tvg-name="河南卫视" tvg-logo="https://github.com/fanmingming/live/blob/main/tv/hn4k.png?raw=true" group-title="UHD-河南电信",河南卫视电信4K
 #http://123.149.0.151:2000/udp/239.16.10.210:2000
 
-#EXTINF:-1,tvg-id="斗鱼4K影院" tvg-name="斗鱼4K影院" tvg-logo="https://github.com/llxxcc2025/llxxcc2025/blob/main/logo/douyu.jpg?raw=true" group-title="UHD-IPV4",斗鱼4K影院内网
+#EXTINF:-1,tvg-id="斗鱼4K影院" tvg-name="斗鱼4K影院" tvg-logo="https://github.com/llxxcc2025/llxxcc2025/blob/main/logo/douyu.jpg?raw=true" group-title="UHD",斗鱼4K影院内网
 http://192.168.100.182:35455/douyu/9249162
-#EXTINF:-1,tvg-id="斗鱼4K影院" tvg-name="斗鱼4K影院" tvg-logo="https://github.com/llxxcc2025/llxxcc2025/blob/main/logo/douyu.jpg?raw=true" group-title="UHD-IPV4",斗鱼4K影院外网
+#EXTINF:-1,tvg-id="斗鱼4K影院" tvg-name="斗鱼4K影院" tvg-logo="https://github.com/llxxcc2025/llxxcc2025/blob/main/logo/douyu.jpg?raw=true" group-title="UHD",斗鱼4K影院外网
 http://43.138.170.29:35455/douyu/9249162
-#http://zzy789.xyz/douyu1.php?id=9249162
-#http://epg.112114.xyz/douyu/9249162
+
+http://zzy789.xyz/douyu1.php?id=9249162
+http://epg.112114.xyz/douyu/9249162
 
 #EXTINF:-1,tvg-id="爱上4K" tvg-name="爱上4K" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/%E7%88%B1%E4%B8%8A4K.png" group-title="UHD",爱上4K V6
 http://[2409:8087:5e01:34::22]:6610/ZTE_CMS/00000001000000060000000000000459/index.m3u8?blog.ntnas.top
